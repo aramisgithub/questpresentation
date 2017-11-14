@@ -28,6 +28,9 @@
 
 - Decides to pretend to disguise herself as male to save her father
 
+- Mulan's motivation for adventure is saving her father, while in the Odyssey
+  the King's motivation is to save his people
+
 ## Odyssey
 
 - Odysseus sets out for the war in Troy.
