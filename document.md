@@ -204,3 +204,11 @@
   is actually him. She tells him she moved their bed. He replies, correctly,
   that this would have been impossible, and all is returned to normal.
 
+# Archetypes
+
+## The Shadow
+
+- Odyssey has Poseidon, etc
+
+- The Shadow in Mulan is Shang Yu
+
