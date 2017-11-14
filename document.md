@@ -16,10 +16,6 @@
 - King Odysseus is at home in Ithaca, with his wife, Penelope, and newborn son,
   Telemachus.
 
-- The Ordinary world in the Odyssey is full of pride and honor, and the King is
-  respected by his people, while in Mulan she is clumsy and not respected by
-  her family
-
 # Call to adventure
 
 ## Mulan
@@ -27,9 +23,6 @@
 - Witnesses her father being conscripted and knows he will die in war
 
 - Decides to pretend to disguise herself as male to save her father
-
-- Mulan's motivation for adventure is saving her father, while in the Odyssey
-  the King's motivation is to save his people
 
 ## Odyssey
 
@@ -49,19 +42,12 @@
 - He does not want to leave his family and sail to Troy; he knows it will be
   a long trip.
 
-- Mulan fears for herself, while Odysseus fear for others
-
-- This shows that Odysseus believes in himself, while Mulan does not
-
 # Meeting with the mentor
 
 ## Mulan
 
 - Mulan meets with the captain and is inspired by his ridiculing to be a better
   soldier
-
-- Mulan does not have a person that constantly guards her, while Odysseus does,
-  which may indicate that Odysseus' struggles were much more difficult
 
 ## Odyssey
 
@@ -81,20 +67,11 @@
 - After the war, the gods become angry with the Greeks for their prideful ways.
   A great storm emerges and throws them off course.
 
-- Odysseus does not have a real _threshold_ to cross, but Mulan does, implying
-  that his journey will be longer and more drawn out
-
 # Tests, allies, enemies
 
 ## Mulan
 
 - Mulan improves her skills and becomes even better at being male
-
-- Mulan has only vague "montage-y" tests, allies, enemies in the form of
-  training, while Odysseus has real obstacles to overcome
-
-- Repeatedly it is implied that Mulan's journey will be soft and easy, while
-  the King's journey has real life-or-death scenarios, and maybe a sad ending
 
 ## Odyssey
 
@@ -185,6 +162,7 @@
 
 # Resurrection
 
+
 ## Mulan
 
 - No one believes her, becuase they belive that Mulan cannot be trusted as she
@@ -234,4 +212,42 @@
 - Odyssey has Poseidon, etc
 
 - The Shadow in Mulan is Shang Yu
+
+## The Hero(ine)
+
+- The hero in Odyssey is Odysseus
+
+- The hero in Mulan is Mulan
+
+## The Hermit/ Helper/ Mentor
+
+- The helper in Odssey is Goddess, Athena
+
+- The helper in Mulan is Mushu
+
+## The Dream Woman/Man
+
+- The dream person in Odssey is Penelope
+
+- The dream person in Mulan is the Captain
+
+## The Threshold Guardian
+
+- The threshold guardian in Odssey are the Lotus Eaters
+
+- The threshold guardian in Mulan are the ancestors
+
+## The Trickers
+
+- The tricker in Odssey is Poseidon
+
+- The trickers in Mulan is Mushu
+
+## The Herald 
+- The herald in Odssey is the starting of the war in Troy
+
+- The herald in Mulan is Mushu and the consul of the Emperor
+
+
+
 
