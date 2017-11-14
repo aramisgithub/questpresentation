@@ -3,9 +3,13 @@
 
 ## Mulan
 
-- Item
+- Honor is vital
 
-- Stuff
+- Mulan does not fit into traditional female values
+
+- Mulan is quite clumsy
+
+- Embarrasses herself in front of the matchmaker
 
 ## Odyssey
 
@@ -16,9 +20,9 @@
 
 ## Mulan
 
-- Item 1
+- Witnesses her father being conscripted and knows he will die in war
 
-- Stuff
+- Decides to pretend to disguise herself as male to save her father
 
 ## Odyssey
 
@@ -28,9 +32,10 @@
 
 ## Mulan
 
-- Item
+- Doubts her disguising abilities and almost gives up in front of the training
+  camp
 
-- Stuff
+- Mushu convinces her to go anyway
 
 ## Odyssey
 
@@ -41,9 +46,8 @@
 
 ## Mulan
 
-- Item
-
-- Stuff
+- Mulan meets with the captain and is inspired by his ridiculing to be a better
+  soldier
 
 ## Odyssey
 
@@ -56,9 +60,7 @@
 
 ## Mulan
 
-- Item
-
-- Stuff
+- Mulan comes to be respected by the others in the army for her skill
 
 ## Odyssey
 
@@ -69,9 +71,7 @@
 
 ## Mulan
 
-- Item
-
-- Stuff
+- Mulan improves her skills and becomes even better at being male
 
 ## Odyssey
 
@@ -95,9 +95,8 @@
 
 ## Mulan
 
-- Item
-
-- Stuff
+- Army goes to a village the Huns decimated after being tricked by Mushu into
+  going to war
 
 ## Odyssey
 
@@ -109,9 +108,18 @@
 
 ## Mulan
 
-- Item
+- Army is ambushed by the Huns who are hiding behind the summit of the mountain
 
-- Stuff
+- All hope is lost
+
+- Mulan saves everyone by firing a rocket into an overhang of snow, causing an
+  avalanche
+
+- She kills almost everyone, but some of the army survive (hmm... I wonder why
+  only the main characters survive..)
+
+- Mulan was wounded, and after being undressed to tend to her wound, the rest
+  of the army realises she is female
 
 ## Odyssey
 
@@ -122,9 +130,12 @@
 
 ## Mulan
 
-- Item
+- Instead of the reward going to the hero, it goes to the others in the army
+  after they realise Mulan is female
 
-- Stuff
+- The reward consists of beating the Huns and not perishing
+
+- Mulan is left to perish in the snow with Mushu, the cricket and her horse
 
 ## Odyssey
 
@@ -134,9 +145,14 @@
 
 ## Mulan
 
-- Item
+- Mulan realises most of the Huns did **not die in the avalanche after all, and
+  decides to make her way towards the Imperial Palace
 
-- Stuff
+- She decides that she is obligated to save China, instead of just going home
+
+- Mulan arrives at the Imperial palace and attempts to convince the others that
+  the Huns are in fact _not_ dead, and that they are there, trying to murder
+  the Emperor
 
 ## Odyssey
 
@@ -148,9 +164,17 @@
 
 ## Mulan
 
-- Item
+- No one believes her, becuase they belive that Mulan cannot be trusted as she
+  had alreaddy lied to them before
 
-- Stuff
+- The huns reveal themselves, and the remaining members of the army, directed
+  by the captain, attempt to ram the Imerial Palace's doors open, to no avail
+
+- Mulan eventually convinces all members of the army to join her in her plan to
+  disguuise themselves as women
+
+- Mulan's plan succeeds, and she is rewarded by the Emperor by being offered
+  a seat on the Imperial Council. which she declines
 
 ## Odyssey
 
@@ -166,9 +190,11 @@
 
 ## Mulan
 
-- Item
+- Instead, the Emperor hands Mulan a sword and a necklace
 
-- Stuff
+- Mulan returns home with the captain in tow to the delight of her family
+
+- Mulan's family is also impressed with the gifts Mulan recieved
 
 ## Odyssey
 
