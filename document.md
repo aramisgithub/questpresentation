@@ -90,6 +90,12 @@
 
 - Mulan improves her skills and becomes even better at being male
 
+- Mulan has only vague "montage-y" tests, allies, enemies in the form of
+  training, while Odysseus has real obstacles to overcome
+
+- Repeatedly it is implied that Mulan's journey will be soft and easy, while
+  the King's journey has real life-or-death scenarios, and maybe a sad ending
+
 ## Odyssey
 
 - Odysseus is thwarted with many tests as he travels back to Ithaca:
