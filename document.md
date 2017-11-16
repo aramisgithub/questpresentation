@@ -1,15 +1,15 @@
 
-# Ordinary world
+# ordinary world
 
 ## Mulan
 
-- Honor is vital
+- \alert{Honor} is vital
 
-- Mulan does not fit into traditional female values
+- Mulan \alert{does not fit} into traditional female values
 
-- Mulan is quite clumsy
+- She is quite \alert{clumsy}
 
-- Embarrasses herself in front of the matchmaker
+- \alert{Embarrasses} herself in front of the matchmaker
 
 ## Odyssey
 
@@ -17,143 +17,148 @@
 
 - With his wife, Penelope
 
-- With newborn son, Telemachus.
+- And newborn son, Telemachus.
+
+- Generally \alert{well-liked} and \alert{respected}
 
 ## Comparison
 
 - Odyssey
 
-    - Full of pride and honor
+    - Full of \alert{pride} and \alert{honor}
 
-    - King is respected by his people
+    - \alert{Respected} by his people
 
 - Mulan
 
-    - Clumsy
+    - \alert{Clumsy}
 
-    - Not respected by her family
+    - \alert{Not} respected by her family
 
-# Call to adventure
+# call to adventure
 
 ## Mulan
 
-- Witnesses her father being conscripted and knows he will die in war
+- Witnesses her father being \alert{conscripted}
 
-- Decides to pretend to disguise herself as male to save her father
+- Knows he will \alert{die} in war
 
-- Mulan's motivation for adventure is saving her father, while in the Odyssey
-  the King's motivation is to save his people
+- Decides to \alert{disguise} herself as male to \alert{save} her father
 
 ## Odyssey
 
-- Odysseus sets out for the war in Troy.
+- Odysseus sets out for the \alert{war} in Troy.
 
 ## Comparison
 
 - Odyssey
 
-    - King's motivation is to save his people
+    - Motivation is to save his \alert{people}
 
 - Mulan
 
-    - Mulan's motivation for adventure is saving her father
+    - Motivation for adventure is saving her \alert{father}
 
-# Refusal of the call
+# refusal of the call
 
 ## Mulan
 
-- Doubts her disguising abilities and almost gives up in front of the training
-  camp
+- \alert{Doubts} her disguising abilities and \alert{almost gives up} in front
+  of the training camp
 
-- Mushu convinces her to go anyway
+- Mushu convinces her to \alert{go anyway}
 
 ## Odyssey
 
-- He does not want to leave his family and sail to Troy
+- He does not want to \alert{leave} his \alert{family} and sail to Troy
 
-- Knows it will be a long trip
+- Knows it will be a \alert{long trip}
 
 
 ## Comparison
 
 - Mulan
 
-    - Fears for herself
+    - Fears for \alert{herself}
 
 - Odyssey
 
-    - Odysseus fears for others
+    - Fears for \alert{others}
 
-- Shows that Odysseus believes in himself, while Mulan does not
+- Shows that Odysseus \alert{believes} in himself, while Mulan \alert{does not}
 
-# Meeting with the mentor
+# meeting with the mentor
 
 ## Mulan
 
-- Mulan meets with the captain and is inspired by his ridiculing to be a better
-  soldier
+- Mulan meets with the captain
+
+- Is \alert{inspired} by his ridiculing to be a \alert{better} soldier
 
 ## Odyssey
 
-- Athena, the Goddess of wisdom, crafts, and battle is Odysseus' guide
+- \alert{Athena}, the Goddess of wisdom, crafts, and battle is Odysseus'
+  \alert{guide}
 
-- She wants to help Odysseus, though she has been instructed not to
+- Wants to \alert{help} Odysseus, though she has been instructed \alert{not} to
 
-- She takes pity on him while other gods forsake Odysseus
+- Takes \alert{pity} on him while other gods \alert{forsake} Odysseus
 
-- Constantly saves him from death
+- Constantly \alert{saves} him from death
 
-- Gives him guidance
+- Gives him \alert{guidance}
 
 ## Comparison
 
 - Mulan
 
-    - Does not have a person that constantly guards her
+    - Does \alert{not} have a person that constantly guards her
 
 - Odyssey
 
-    - Odysseus does
+    - Odysseus \alert{does}
 
-- May indicate that Odysseus' struggles will be so much more difficult that he
-  needs others to guard him
+- May indicate that Odysseus' struggles will be so much \alert{more difficult}
+  that he needs others to guard him
 
-# Crossing the threshold
+# crossing the threshold
 
 ## Mulan
 
-- Mulan comes to be respected by the others in the army for her skill
+- Mulan comes to be \alert{respected} by the others in the army for her
+  \alert{skill}
 
 ## Odyssey
 
-- After the war, the gods become angry with the Greeks for their prideful ways
+- After the war, the \alert{gods} become \alert{angry} with the Greeks for
+  their prideful ways
 
-- A great storm emerges and throws them off course
+- A great \alert{storm} emerges and throws them \alert{off course}
 
 ## Comparison
 
 - Odyssey
 
-    - Odysseus does not have a real _threshold_ to cross
+    - \alert{Does not} have a real \alert{threshold} to cross
 
 - Mulan
 
-    - Mulan does
+    - Mulan \alert{does}
 
-- Implying that the King's journey will be longer and more drawn out
+- Implying that Odysseus' journey will be \alert{longer} and more \alert{drawn
+  out}
 
-# Tests, allies, enemies
+# tests, allies, enemies
 
 ## Mulan
 
-- Mulan improves her skills and becomes even better at being male
+- Mulan improves her \alert{skills} and becomes even \alert{better} at being
+  male
 
-- Mulan has only vague "montage-y" tests, allies, enemies in the form of
-  training, while Odysseus has real obstacles to overcome
 
 ## Odyssey
 
-- Odysseus is thwarted with many tests as he travels back to Ithaca:
+- Odysseus is thwarted with \alert{many tests} as he travels back to Ithaca:
 
     - Polyphemus
 
@@ -173,88 +178,93 @@
 
 - Mulan
 
-    - Implied that Mulan's journey will be soft and easy
+    - Implied that Mulan's journey will be \alert{soft} and \alert{easy}
+
+    - Only \alert{vague} "montage-y" tests, allies, enemies in the form of
+      \alert{training}
 
 - Odyssey
 
-    - Odysseus's journey has real life-or-death scenarios, and maybe a sad
-      ending
+    - Journey has \alert{real} life-or-death scenarios, and is more
+      \alert{serious} than Mulan
 
-# Approach to the innermost cave
+# approach to the innermost cave
 
 ## Mulan
 
-- Army goes to a village the Huns decimated after being tricked by Mushu into
-  going to war
+- Army goes to a \alert{village} the Huns decimated after being \alert{tricked}
+  by Mushu into going to war
 
 ## Odyssey
 
-- Odysseus nearly makes it home
+- Odysseus \alert{nearly} makes it home
 
-- His crew opens a bag that had been given to Odysseus by Aeolus, god of the
-  winds
+- His crew \alert{opens} a \alert{bag} that had been given to Odysseus by
+  Aeolus, god of the winds
 
-- When the bag is opened, it releases a wind that blows them far away from
-  Ithaca
+- When the bag is opened, it releases a \alert{wind} that blows them far
+  \alert{away} from Ithaca
 
 ## Comparison
 
 - Mulan
 
-    - The Approach is much more subdued in Mulan, and feels "set" and
+    - The Approach is much more \alert{subdued} in Mulan, and feels "set" and
       "official"
 
 - Odyssey
 
-    - Approach in the Odyssey more spontaneous, integrating surprise
+    - Approach in the Odyssey more \alert{spontaneous}, integrating surprise
 
-    - It is more dangerous, setting the tone for the Supreme Ordeal
+    - It is more \alert{dangerous}, setting the tone for the Supreme Ordeal
 
-# Supreme ordeal
+# supreme ordeal
 
 ## Mulan
 
-- Army is ambushed by the Huns who are hiding behind the summit of the mountain
+- Army is \alert{ambushed} by the Huns who are hiding behind the summit of the
+  mountain
 
 - All hope is lost
 
-- Mulan saves everyone by firing a rocket into an overhang of snow, causing an
-  avalanche
+- Mulan \alert{saves} everyone by firing a \alert{rocket} into an overhang of
+  snow, causing an avalanche
 
-- She kills almost everyone, but some of the army survive (hmm... I wonder why
-  only the main characters survive..)
+- She \alert{kills} almost \alert{everyone}, but some of the army survive
 
-- Mulan was wounded, and after being undressed to tend to her wound, the rest
-  of the army realises she is female
+- The rest of the army \alert{realises} that Mulan is \alert{female} after
+  undressing her to tend to a wound she had sustained
 
 ## Odyssey
 
-- Odysseus is sent to the underworld seeking information to guide him home
+- Odysseus is sent to the \alert{underworld} seeking \alert{information} to
+  \alert{guide} him home
 
-- This quest brings him to the verge of death
+- This quest brings him to the \alert{verge} of \alert{death}
 
 ## Comparison
 
 - Mulan
 
-    - Mulan sustains little damage
+    - Sustains \alert{little} damage
 
 - Odyssey
 
-    - Odysseus sustains comparatively _huge_ personal damage
+    - Sustains comparatively \alert{huge} personal damage
 
-- In general much more extreme storyline in the Odyssey
+- In general much more \alert{extreme} storyline in the Odyssey
 
-# Reward
+# reward
 
 ## Mulan
 
-- Instead of the reward going to the hero, it goes to the others in the army
-  after they realise Mulan is female
+- Instead of the \alert{reward} going to the hero, it goes to the
+  \alert{others} in the army after they realise Mulan is female
 
-- The reward consists of beating the Huns and not perishing
+- The reward consists of \alert{beating} the Huns and \alert{not perishing}
 
-- Mulan is left to perish in the snow with Mushu, the cricket and her horse
+- Mulan is \alert{left to die} in the snow with Mushu, the cricket and her
+  horse
 
 ## Odyssey
 
@@ -264,237 +274,254 @@
 
 - Mulan
 
-    - Reward is vague
+    - Reward is \alert{vague}
 
-    - Cannot really be classified as reward
+    - \alert{Cannot really} be classified as reward
 
 - Odyssey
 
-    - Powerful kings of faraway lands lead the classic hero home: I like it!
+    - \alert{Powerful} kings of \alert{faraway} lands lead the classic hero
+      home
 
-    - More epic in general
+    - I like it!
 
-# The road back
+    - More \alert{epic} in general
+
+# the road back
 
 ## Mulan
 
-- Mulan realises most of the Huns did _not_ die in the avalanche after all, and
-  decides to make her way towards the Imperial Palace
+- Mulan realises most of the Huns did \alert{not die} in the avalanche after
+  all, and decides to make her way towards the Imperial Palace
 
-- She decides that she is obligated to save China, instead of just going home
+- She decides that she is obligated to \alert{save} China, instead of just
+  going home
 
-- Mulan arrives at the Imperial palace and attempts to convince the others that
-  the Huns are in fact _not_ dead, and that they are there, trying to murder
-  the Emperor
+- Mulan arrives at the Imperial palace and attempts to \alert{convince} the
+  others that the Huns are in fact \alert{not dead}, and that they are there,
+  trying to \alert{murder} the Emperor
 
 ## Odyssey
 
-- Unlike other heroes, Odysseus was not in search of treasure
+- Unlike other heroes, Odysseus was \alert{not} in search of \alert{treasure}
 
-- Instead, he was desperately trying to reach his home
+- Instead, he was desperately trying to \alert{reach} his \alert{home}
 
-- Once he returns, he finds out that his house has been overrun with suitors
-  trying to steal his wife and palace
+- Once he returns, he finds out that his \alert{house} has been \alert{overrun}
+  with suitors trying to steal his wife and palace
 
 ## Comparison
 
 - Mulan
 
-    - In this case, Mulan's story is much more dramatic and heroic
+    - In this case, Mulan's story is much more \alert{dramatic} and
+      \alert{heroic}
 
     - Trying to save China!
 
 - Odyssey
 
-    - Much more noble
+    - Much more \alert{noble}
 
-    - Not as dramatic
+    - \alert{Not} as dramatic
 
-    - Lower stakes
+    - \alert{Lower} stakes
 
-# Resurrection
+# resurrection
 
 ## Mulan
 
-- No one believes her, because they believe that Mulan cannot be trusted as she
-  had already lied to them before
+- No one believes her, because they believe that Mulan \alert{cannot be
+  trusted} as she had already \alert{lied} to them before
 
 - The Huns reveal themselves, and the remaining members of the army, directed
-  by the captain, attempt to ram the Imperial Palace's doors open, to no avail
+  by the captain, attempt to \alert{ram} the Imperial Palace's doors open,
+  \alert{to no avail}
 
-- Mulan eventually convinces all members of the army to join her in her plan to
-  disguise themselves as women
+- Mulan eventually \alert{convinces} all members of the army to \alert{join
+  her} in her plan to disguise themselves as women
 
-- Mulan's plan succeeds, and she is rewarded by the Emperor by being offered
-  a seat on the Imperial Council, which she declines
+- Mulan's plan \alert{succeeds}, and she is \alert{rewarded} by the Emperor by
+  being offered a seat on the Imperial Council, which she declines
 
 ## Odyssey
 
-- Instead of rushing in and killing the suitors, Odysseus is patient
+- Instead of rushing in and killing the suitors, Odysseus is \alert{patient}
 
-- He wishes to learn if his wife has been faithful
+- He wishes to learn if his \alert{wife} has been \alert{faithful}
 
 - With the help of his son and a loyal swineherd, he devises a plan
 
-- Athena disguises him as an old beggar so that he can enter his house
+- Athena \alert{disguises} him as an old beggar so that he can enter his house
   undetected
 
-- Telemachus steals all the suitors’ weapons, and a final test is proposed
+- Telemachus steals all the suitors’ weapons, and a \alert{final test} is
+  proposed
 
 - Penelope will marry the man who strings Odysseus' bow and shoots an arrow
-  through a line of small circles; a seemingly impossible task
+  through a line of small circles; a seemingly \alert{impossible} task
 
 ## Comparison
 
 - Mulan
 
-    - Much more dramatic
+    - Much more \alert{dramatic}
 
-    - Not very patient or mature
+    - \alert{Not} very \alert{patient} or \alert{mature}
 
 - Odyssey
 
-    - Very mature way to handle situation
+    - Very \alert{mature} way to handle situation
 
-    - Cunning
+    - \alert{Cunning}
 
-- Implies that Odysseus is mature and clever, while Mulan's plan is just brute
-  fore with a bit of disguising
+- Implies that Odysseus is \alert{mature} and \alert{clever}, while Mulan's
+  plan is just \alert{brute force} with a bit of disguising
 
-# Return with the elixir
+# return with the elixir
 
 ## Mulan
 
-- Instead, the Emperor hands Mulan a sword and a necklace
+- Instead, the Emperor hands Mulan a \alert{sword} and a \alert{necklace}
 
-- Mulan returns home with the captain in tow to the delight of her family
+- Mulan \alert{returns} home with the captain in tow to the \alert{delight} of
+  her family
 
-- Mulan's family is also impressed with the gifts Mulan received
+- Mulan's family is also \alert{impressed} with the gifts Mulan received
 
 ## Odyssey
 
-- Odysseus, still dressed as a beggar, completes the task and is restored to
-  his original state
+- Odysseus, still dressed as a beggar, completes the task and is
+  \alert{restored} to his original state
 
-- He and his son expel the suitors from their home by force
+- He and his son \alert{expel} the suitors from their home by \alert{force}
 
-- Penelope, seeing how Odysseus has changed, tests him to make sure it is
-  actually him
+- Penelope, seeing how Odysseus has changed, \alert{tests} him to make sure it
+  is \alert{actually him}
 
 - She tells him she moved their bed
 
 - He replies, correctly, that this would have been impossible, and all is
-  returned to normal
+  \alert{returned to normal}
 
 ## Comparison
 
-- Both noble and dramatic
+- Both \alert{noble} and \alert{dramatic}
 
-- Odyssey slightly more dramatic IMHO
+- Odyssey slightly \alert{more} dramatic IMHO
 
-- Mulan scenario very unrealistic
+- Mulan scenario very \alert{unrealistic}
 
-- Assuming all mystical creatures are real, Odyssey scenario quite realistic
+- Assuming all mystical creatures are real, Odyssey scenario quite
+  \alert{realistic}
 
-# Archetypes
+# archetypes
 
 ## The Shadow
 
-- Odyssey has Poseidon
+- Odyssey has \alert{Poseidon}
 
-- The Shadow in Mulan is Shang Yu
+- The Shadow in Mulan is \alert{Shang Yu}
 
 ## Similarities
 
-- Both of the characters, in each movie and book are villains
+- Both of the characters, in each movie and book are \alert{villains}
 
-- In the Odyssey, Poseidon isn't the main threat to Odysseus - the main problem
-  is the war---but causes trouble throughout the journey
+- In the Odyssey, Poseidon \alert{isn't} the main \alert{threat} to Odysseus
+  - The \alert{main} problem is the \alert{war}---but causes \alert{trouble}
+    throughout the journey
 
-- Poseidon is more cunning and mischievous in comparison to a big, more
-  traditional villain like Shang Yu
+- Poseidon is more \alert{cunning} and \alert{mischievous} in comparison to
+  a big, more \alert{traditional} villain like Shang Yu
 
 ## The Hero(ine)
 
-- The hero in Odyssey is Odysseus
+- The hero in Odyssey is \alert{Odysseus}
 
-- The hero in Mulan is Mulan
+- The hero in Mulan is \alert{Mulan}
 
 ## Similarities
 
-- Mulan is introduced as a free-spirited outcast, clumsy, and unable to follow
-  rules, regulations, or traditions
+- Mulan is introduced as a \alert{free-spirited} outcast, \alert{clumsy}, and
+  \alert{unable} to follow \alert{rules}, \alert{regulations}, or
+  \alert{traditions}
   
-- Nevertheless, she has a warm heart and wants nothing more than to uphold her
-  family honor, while keeping true to herself
+- Nevertheless, she has a \alert{warm heart} and wants nothing more than to
+  \alert{uphold} her family \alert{honor}, while keeping \alert{true to
+  herself}
 
-- Odysseus has two major flaws, his arrogance and his pride
+- Odysseus has two major \alert{flaws}, his \alert{arrogance} and his
+  \alert{pride}
 
-- In comparison, Mulan is very selfless and puts others before her
+- In comparison, Mulan is very \alert{selfless} and puts \alert{others before
+  her}
 
 ## The Hermit/ Helper/ Mentor
 
-- The helper in Odyssey is Goddess, Athena
+- The helper in Odyssey is \alert{Goddess Athena}
 
-- The helper in Mulan is Mushu
-
-## Similarities
-
-- The characters in each movie and book help the protagonist.
-
-- In the movie Mulan, Mushu helps her by cheering her spirit and gives her
-  confidence
-
-- In comparison, Athena in the movie Odyssey, sends him divine aid and help
-
-## The Dream Woman/Man
-
-- The dream person in Odyssey is Penelope
-
-- The dream person in Mulan is the Captain
+- The helper in Mulan is \alert{Mushu}
 
 ## Similarities
 
-- In comparison, Odysseus is married to Penelope whereas Mulan and the Captain
-  aren't
+- The characters in each movie and book \alert{help} the \alert{protagonist}.
+
+- In the movie Mulan, Mushu \alert{helps} her by \alert{cheering} her
+  \alert{spirit} and gives her \alert{confidence}
+
+- In comparison, Athena in the movie Odyssey, sends him \alert{divine aid} and
+  \alert{help}
+
+## The Dream Person
+
+- The dream person in Odyssey is \alert{Penelope}
+
+- The dream person in Mulan is the \alert{Captain}
+
+## Similarities
+
+- In comparison, Odysseus is \alert{married} to Penelope whereas Mulan and the
+  Captain \alert{aren't}
 
 ## The Threshold Guardian
 
-- The threshold guardian in Odyssey are the Lotus Eaters
+- The threshold guardian in Odyssey are the \alert{Lotus Eaters}
 
-- The threshold guardian in Mulan are the ancestors
+- The threshold guardian in Mulan are the \alert{ancestors}
 
 ## Similarities
 
-- In Mulan, the threshold guardians want to bring her back to not fight for the
-  war
+- In Mulan, the threshold guardians want to \alert{bring} her \alert{back} to
+  \alert{not fight} for the war
 
-- In comparison, the lotus eaters are native to their land and help the Odyssey
-  crew with the 'lotus' fruits
+- In comparison, the lotus eaters are native to their land and \alert{help} the
+  Odyssey crew with the 'lotus' fruits
 
 ## The Trickers
 
-- The tricker in Odyssey is Poseidon
+- The tricker in Odyssey is \alert{Poseidon}
 
-- The trickers in Mulan is Mushu
+- The trickers in Mulan is \alert{Mushu}
 
 ## Similarities
 
-- In Mulan, Mushu tricks the consul to go to war
+- In Mulan, Mushu \alert{tricks} the consul to \alert{go to war}
 
-- Mushu doesn't harm Mulan in any way
+- Mushu \alert{doesn't harm} Mulan in any way
 
-- In comparison, Poseidon tricks Odysseus many times getting him into
+- In comparison, Poseidon \alert{tricks} Odysseus many times getting him into
   frustrating situations
 
 ## The Herald
 
-- The herald in Odyssey is the starting of the war in Troy
+- The herald in Odyssey is the \alert{starting} \alert{of} the \alert{war} in
+  Troy
 
-- The herald in Mulan is Mushu and the consul of the Emperor
+- The herald in Mulan is \alert{Mushu} and the \alert{Consul} of the Emperor
 
 ## Similarities
 
-- In Mulan, Mushu lied about going to war; the news was fake
+- In Mulan, Mushu \alert{lied} about going to war; the news was \alert{fake}
 
-- In Odyssey, the starting of the war warned everone to stay alert 
+- In Odyssey, the starting of the war \alert{warned} everyone to stay
+  \alert{alert}
