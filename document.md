@@ -432,9 +432,10 @@
 
 ## Similarities
 
-- The characters in each movie and book help the protagonist. 
+- The characters in each movie and book help the protagonist.
 
-- In the movie Mulan, Mushu helps her by cheering her spirit and gives her confidence
+- In the movie Mulan, Mushu helps her by cheering her spirit and gives her
+  confidence
 
 - In comparison, Athena in the movie Odyssey, sends him divine aid and help
 
@@ -446,7 +447,8 @@
 
 ## Similarities
 
-- In comparison, Odysseus is married to Penelope whereas Mulan and the Captain aren't
+- In comparison, Odysseus is married to Penelope whereas Mulan and the Captain
+  aren't
 
 ## The Threshold Guardian
 
@@ -456,9 +458,11 @@
 
 ## Similarities
 
-- In Mulan, the threshold guardians want to bring her back to not fight for the war
+- In Mulan, the threshold guardians want to bring her back to not fight for the
+  war
 
-- In comparison, the lotus eaters are native to their land and help the Odyssey crew with the 'lotus' fruits
+- In comparison, the lotus eaters are native to their land and help the Odyssey
+  crew with the 'lotus' fruits
 
 ## The Trickers
 
@@ -472,7 +476,8 @@
 
 - Mushu doesn't harm Mulan in any way
 
-- In comparison, Poseidon tricks Odysseus many times getting him into frustrating situations
+- In comparison, Poseidon tricks Odysseus many times getting him into
+  frustrating situations
 
 ## The Herald 
 
