@@ -278,6 +278,22 @@
   desperately trying to reach his home. Once he returns, he finds out that his
   house has been overrun with suitors trying to steal his wife and palace.
 
+## Comparison
+
+- Mulan
+
+    - In this case, Mulan's story is much more dramatic and heroic
+
+    - Trying to save China!
+
+- Odyssey
+
+    - Much more noble
+
+    - Not as dramatic
+
+    - Lower stakes
+
 # Resurrection
 
 ## Mulan
