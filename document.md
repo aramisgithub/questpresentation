@@ -345,7 +345,7 @@
 
 - Mulan returns home with the captain in tow to the delight of her family
 
-- Mulan's family is also impressed with the gifts Mulan recieved
+- Mulan's family is also impressed with the gifts Mulan received
 
 ## Odyssey
 
@@ -354,6 +354,16 @@
   force. Penelope, seeing how Odysseus has changed, tests him to make sure it
   is actually him. She tells him she moved their bed. He replies, correctly,
   that this would have been impossible, and all is returned to normal.
+
+## Comparison
+
+- Both noble and dramatic
+
+- Odyssey slightly more dramatic IMHO
+
+- Mulan scenario very unrealistic
+
+- Assuming all mystical creatures are real, Odyssey scenario quite realistic
 
 # Archetypes
 
