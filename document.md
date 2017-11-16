@@ -16,9 +16,19 @@
 - King Odysseus is at home in Ithaca, with his wife, Penelope, and newborn son,
   Telemachus.
 
-- The Ordinary world in the Odyssey is full of pride and honor, and the King is
-  respected by his people, while in Mulan she is clumsy and not respected by
-  her family
+## Parallels
+
+- Odyssey
+
+    - Full of pride and honor
+
+    - King is respected by his people
+
+- Mulan
+
+    - Clumsy
+
+    - Not respected by her family
 
 # Call to adventure
 
