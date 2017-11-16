@@ -408,9 +408,11 @@
 
 - Both of the characters, in each movie and book are villains
 
-- In the Odyssey, Poseidon isn't the main threat to Odysseus - the main problem is the war - but causes trouble throughout the journey 
+- In the Odyssey, Poseidon isn't the main threat to Odysseus - the main problem
+  is the war---but causes trouble throughout the journey
 
-- Poseidon is more cunning and mischievous in comparison to a big, more traditional villain like Shang Yu
+- Poseidon is more cunning and mischievous in comparison to a big, more
+  traditional villain like Shang Yu
 
 ## The Hero(ine)
 
@@ -420,9 +422,15 @@
 
 ## Similarities
 
-- Mulan is introduced as a free-spirited outcast, clumsy, and unable to follow rules, regulations, or traditions. Nevertheless, she has a warm heart and wants nothing more than to uphold her family honor, while keeping true to herself
+- Mulan is introduced as a free-spirited outcast, clumsy, and unable to follow
+  rules, regulations, or traditions
+  
+- Nevertheless, she has a warm heart and wants nothing more than to uphold her
+  family honor, while keeping true to herself
 
-- Odysseus has two major flaws, his arrogance and his pride. In comparison, Mulan is very selfless and puts others before her.
+- Odysseus has two major flaws, his arrogance and his pride
+
+- In comparison, Mulan is very selfless and puts others before her
 
 ## The Hermit/ Helper/ Mentor
 
@@ -479,7 +487,7 @@
 - In comparison, Poseidon tricks Odysseus many times getting him into
   frustrating situations
 
-## The Herald 
+## The Herald
 
 - The herald in Odyssey is the starting of the war in Troy
 
