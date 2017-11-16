@@ -13,8 +13,11 @@
 
 ## Odyssey
 
-- King Odysseus is at home in Ithaca, with his wife, Penelope, and newborn son,
-  Telemachus.
+- King Odysseus is at home in Ithaca
+
+- With his wife, Penelope
+
+- With newborn son, Telemachus.
 
 ## Comparison
 
@@ -66,8 +69,9 @@
 
 ## Odyssey
 
-- He does not want to leave his family and sail to Troy; he knows it will be
-  a long trip.
+- He does not want to leave his family and sail to Troy
+
+- Knows it will be a long trip
 
 
 ## Comparison
@@ -91,10 +95,15 @@
 
 ## Odyssey
 
-- Athena, the Goddess of wisdom, crafts, and battle is Odysseus' guide. She
-  wants to help Odysseus, though she has been instructed not to. She takes pity
-  on him while other gods forsake Odysseus, constantly saves him from death,
-  and gives him guidance.
+- Athena, the Goddess of wisdom, crafts, and battle is Odysseus' guide
+
+- She wants to help Odysseus, though she has been instructed not to
+
+- She takes pity on him while other gods forsake Odysseus
+
+- Constantly saves him from death
+
+- Gives him guidance
 
 ## Comparison
 
@@ -117,8 +126,9 @@
 
 ## Odyssey
 
-- After the war, the gods become angry with the Greeks for their prideful ways.
-  A great storm emerges and throws them off course.
+- After the war, the gods become angry with the Greeks for their prideful ways
+
+- A great storm emerges and throws them off course
 
 ## Comparison
 
@@ -179,9 +189,13 @@
 
 ## Odyssey
 
-- Odysseus nearly makes it home, but his crew opens a bag that had been given
-  to Odysseus by Aeolus, god of the winds. When the bag is opened, it releases
-  a wind that blows them far away from Ithaca.
+- Odysseus nearly makes it home
+
+- His crew opens a bag that had been given to Odysseus by Aeolus, god of the
+  winds
+
+- When the bag is opened, it releases a wind that blows them far away from
+  Ithaca
 
 ## Comparison
 
@@ -215,8 +229,9 @@
 
 ## Odyssey
 
-- Odysseus is sent to the underworld seeking information to guide him home.
-  This quest brings him to the verge of death.
+- Odysseus is sent to the underworld seeking information to guide him home
+
+- This quest brings him to the verge of death
 
 ## Comparison
 
@@ -274,9 +289,12 @@
 
 ## Odyssey
 
-- Unlike other heroes, Odysseus was not in search of treasure. Instead, he was
-  desperately trying to reach his home. Once he returns, he finds out that his
-  house has been overrun with suitors trying to steal his wife and palace.
+- Unlike other heroes, Odysseus was not in search of treasure
+
+- Instead, he was desperately trying to reach his home
+
+- Once he returns, he finds out that his house has been overrun with suitors
+  trying to steal his wife and palace
 
 ## Comparison
 
@@ -312,13 +330,19 @@
 
 ## Odyssey
 
-- Instead of rushing in and killing the suitors, Odysseus is patient. He wishes
-  to learn if his wife has been faithful. With the help of his son and a loyal
-  swineherd, he devises a plan. Athena disguises him as an old beggar so that
-  he can enter his house undetected. Telemachus steals all the suitors’
-  weapons, and a final test is proposed. Penelope will marry the man who
-  strings Odysseus' bow and shoots an arrow through a line of small circles;
-  a seemingly impossible task.
+- Instead of rushing in and killing the suitors, Odysseus is patient
+
+- He wishes to learn if his wife has been faithful
+
+- With the help of his son and a loyal swineherd, he devises a plan
+
+- Athena disguises him as an old beggar so that he can enter his house
+  undetected
+
+- Telemachus steals all the suitors’ weapons, and a final test is proposed
+
+- Penelope will marry the man who strings Odysseus' bow and shoots an arrow
+  through a line of small circles; a seemingly impossible task
 
 ## Comparison
 
@@ -350,10 +374,17 @@
 ## Odyssey
 
 - Odysseus, still dressed as a beggar, completes the task and is restored to
-  his original state. He and his son expel the suitors from their home by
-  force. Penelope, seeing how Odysseus has changed, tests him to make sure it
-  is actually him. She tells him she moved their bed. He replies, correctly,
-  that this would have been impossible, and all is returned to normal.
+  his original state
+
+- He and his son expel the suitors from their home by force
+
+- Penelope, seeing how Odysseus has changed, tests him to make sure it is
+  actually him
+
+- She tells him she moved their bed
+
+- He replies, correctly, that this would have been impossible, and all is
+  returned to normal
 
 ## Comparison
 
