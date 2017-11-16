@@ -400,9 +400,17 @@
 
 ## The Shadow
 
-- Odyssey has Poseidon, etc
+- Odyssey has Poseidon
 
 - The Shadow in Mulan is Shang Yu
+
+## Similarities
+
+- Both of the characters, in each movie and book are villains
+
+- In the Odyssey, Poseidon isn't the main threat to Odysseus - the main problem is the war - but causes trouble throughout the journey 
+
+- Poseidon is more cunning and mischievous in comparison to a big, more traditional villain like Shang Yu
 
 ## The Hero(ine)
 
@@ -410,11 +418,25 @@
 
 - The hero in Mulan is Mulan
 
+## Similarities
+
+- Mulan is introduced as a free-spirited outcast, clumsy, and unable to follow rules, regulations, or traditions. Nevertheless, she has a warm heart and wants nothing more than to uphold her family honor, while keeping true to herself
+
+- Odysseus has two major flaws, his arrogance and his pride. In comparison, Mulan is very selfless and puts others before her.
+
 ## The Hermit/ Helper/ Mentor
 
 - The helper in Odyssey is Goddess, Athena
 
 - The helper in Mulan is Mushu
+
+## Similarities
+
+- The characters in each movie and book help the protagonist. 
+
+- In the movie Mulan, Mushu helps her by cheering her spirit and gives her confidence
+
+- In comparison, Athena in the movie Odyssey, sends him divine aid and help
 
 ## The Dream Woman/Man
 
@@ -422,11 +444,21 @@
 
 - The dream person in Mulan is the Captain
 
+## Similarities
+
+- In comparison, Odysseus is married to Penelope whereas Mulan and the Captain aren't
+
 ## The Threshold Guardian
 
 - The threshold guardian in Odyssey are the Lotus Eaters
 
 - The threshold guardian in Mulan are the ancestors
+
+## Similarities
+
+- In Mulan, the threshold guardians want to bring her back to not fight for the war
+
+- In comparison, the lotus eaters are native to their land and help the Odyssey crew with the 'lotus' fruits
 
 ## The Trickers
 
@@ -434,7 +466,22 @@
 
 - The trickers in Mulan is Mushu
 
+## Similarities
+
+- In Mulan, Mushu tricks the consul to go to war
+
+- Mushu doesn't harm Mulan in any way
+
+- In comparison, Poseidon tricks Odysseus many times getting him into frustrating situations
+
 ## The Herald 
+
 - The herald in Odyssey is the starting of the war in Troy
 
 - The herald in Mulan is Mushu and the consul of the Emperor
+
+## Similarities
+
+- In Mulan, Mushu lied about going to war; the news was fake
+
+- In Odyssey, the starting of the war warned everone to stay alert 
