@@ -218,6 +218,18 @@
 - Odysseus is sent to the underworld seeking information to guide him home.
   This quest brings him to the verge of death.
 
+## Comparison
+
+- Mulan
+
+    - Mulan sustains little damage
+
+- Odyssey
+
+    - Odysseus sustains comparatively _huge_ personal damage
+
+- In general much more extreme storyline in the Odyssey
+
 # Reward
 
 ## Mulan
