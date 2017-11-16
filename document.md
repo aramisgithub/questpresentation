@@ -168,7 +168,7 @@
 
 ## Mulan
 
-- Mulan realises most of the Huns did **not die in the avalanche after all, and
+- Mulan realises most of the Huns did _not_ die in the avalanche after all, and
   decides to make her way towards the Imperial Palace
 
 - She decides that she is obligated to save China, instead of just going home
