@@ -183,6 +183,19 @@
   to Odysseus by Aeolus, god of the winds. When the bag is opened, it releases
   a wind that blows them far away from Ithaca.
 
+## Comparison
+
+- Mulan
+
+    - The Approach is much more subdued in Mulan, and feels "set" and
+      "official"
+
+- Odyssey
+
+    - Approach in the Odyssey more spontaneous, integrating surprise
+
+    - It is more dangerous, setting the tone for the Supreme Ordeal
+
 # Supreme ordeal
 
 ## Mulan
