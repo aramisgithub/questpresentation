@@ -235,3 +235,37 @@
 
 - The Shadow in Mulan is Shang Yu
 
+## The Hero(ine)
+
+- The hero in Odyssey is Odysseus
+
+- The hero in Mulan is Mulan
+
+## The Hermit/ Helper/ Mentor
+
+- The helper in Odyssey is Goddess, Athena
+
+- The helper in Mulan is Mushu
+
+## The Dream Woman/Man
+
+- The dream person in Odyssey is Penelope
+
+- The dream person in Mulan is the Captain
+
+## The Threshold Guardian
+
+- The threshold guardian in Odyssey are the Lotus Eaters
+
+- The threshold guardian in Mulan are the ancestors
+
+## The Trickers
+
+- The tricker in Odyssey is Poseidon
+
+- The trickers in Mulan is Mushu
+
+## The Herald 
+- The herald in Odyssey is the starting of the war in Troy
+
+- The herald in Mulan is Mushu and the consul of the Emperor
