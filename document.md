@@ -69,9 +69,18 @@
 - He does not want to leave his family and sail to Troy; he knows it will be
   a long trip.
 
-- Mulan fears for herself, while Odysseus fear for others
 
-- This shows that Odysseus believes in himself, while Mulan does not
+## Comparison
+
+- Mulan
+
+    - Fears for herself
+
+- Odyssey
+
+    - Odysseus fears for others
+
+- Shows that Odysseus believes in himself, while Mulan does not
 
 # Meeting with the mentor
 
