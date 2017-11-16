@@ -16,7 +16,7 @@
 - King Odysseus is at home in Ithaca, with his wife, Penelope, and newborn son,
   Telemachus.
 
-## Parallels
+## Comparison
 
 - Odyssey
 
@@ -44,6 +44,16 @@
 ## Odyssey
 
 - Odysseus sets out for the war in Troy.
+
+## Comparison
+
+- Odyssey
+
+    - King's motivation is to save his people
+
+- Mulan
+
+    - Mulan's motivation for adventure is saving her father
 
 # Refusal of the call
 
