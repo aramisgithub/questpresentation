@@ -120,8 +120,17 @@
 - After the war, the gods become angry with the Greeks for their prideful ways.
   A great storm emerges and throws them off course.
 
-- Odysseus does not have a real _threshold_ to cross, but Mulan does, implying
-  that his journey will be longer and more drawn out
+## Comparison
+
+- Odyssey
+
+    - Odysseus does not have a real _threshold_ to cross
+
+- Mulan
+
+    - Mulan does
+
+- Implying that the King's journey will be longer and more drawn out
 
 # Tests, allies, enemies
 
