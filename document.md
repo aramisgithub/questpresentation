@@ -245,6 +245,20 @@
 
 - The King of Phaeacia gives Odysseus passage home.
 
+## Comparison
+
+- Mulan
+
+    - Reward is vague
+
+    - Cannot really be classified as reward
+
+- Odyssey
+
+    - Powerful kings of faraway lands lead the classic hero home: I like it!
+
+    - More epic in general
+
 # The road back
 
 ## Mulan
