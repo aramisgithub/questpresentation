@@ -298,17 +298,17 @@
 
 ## Mulan
 
-- No one believes her, becuase they belive that Mulan cannot be trusted as she
-  had alreaddy lied to them before
+- No one believes her, because they believe that Mulan cannot be trusted as she
+  had already lied to them before
 
-- The huns reveal themselves, and the remaining members of the army, directed
-  by the captain, attempt to ram the Imerial Palace's doors open, to no avail
+- The Huns reveal themselves, and the remaining members of the army, directed
+  by the captain, attempt to ram the Imperial Palace's doors open, to no avail
 
 - Mulan eventually convinces all members of the army to join her in her plan to
-  disguuise themselves as women
+  disguise themselves as women
 
 - Mulan's plan succeeds, and she is rewarded by the Emperor by being offered
-  a seat on the Imperial Council. which she declines
+  a seat on the Imperial Council, which she declines
 
 ## Odyssey
 
@@ -319,6 +319,23 @@
   weapons, and a final test is proposed. Penelope will marry the man who
   strings Odysseus' bow and shoots an arrow through a line of small circles;
   a seemingly impossible task.
+
+## Comparison
+
+- Mulan
+
+    - Much more dramatic
+
+    - Not very patient or mature
+
+- Odyssey
+
+    - Very mature way to handle situation
+
+    - Cunning
+
+- Implies that Odysseus is mature and clever, while Mulan's plan is just brute
+  fore with a bit of disguising
 
 # Return with the elixir
 
