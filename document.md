@@ -89,15 +89,25 @@
 - Mulan meets with the captain and is inspired by his ridiculing to be a better
   soldier
 
-- Mulan does not have a person that constantly guards her, while Odysseus does,
-  which may indicate that Odysseus' struggles were much more difficult
-
 ## Odyssey
 
 - Athena, the Goddess of wisdom, crafts, and battle is Odysseus' guide. She
   wants to help Odysseus, though she has been instructed not to. She takes pity
   on him while other gods forsake Odysseus, constantly saves him from death,
   and gives him guidance.
+
+## Comparison
+
+- Mulan
+
+    - Does not have a person that constantly guards her
+
+- Odyssey
+
+    - Odysseus does
+
+- May indicate that Odysseus' struggles will be so much more difficult that he
+  needs others to guard him
 
 # Crossing the threshold
 
