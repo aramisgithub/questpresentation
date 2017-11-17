@@ -419,9 +419,9 @@
 
 ## The Shadow
 
-- Odyssey has \alert{Poseidon} -Poseidon conforms to his archetype as he always creates \alert{trouble} to Odysseus
+- Odyssey has \alert{Poseidon}---Poseidon conforms to his archetype as he always creates \alert{trouble} to Odysseus
 
-- The Shadow in Mulan is \alert{Shang Yu} - Shang Yu conforms to his archetype as he is the \alert{leader of the Hans}
+- The Shadow in Mulan is \alert{Shang Yu}---Shang Yu conforms to his archetype as he is the \alert{leader of the Hans}
 
 ## Similarities
 
@@ -436,9 +436,9 @@
 
 ## The Hero(ine)
 
-- The hero in Odyssey is \alert{Odysseus} - He conforms to his archetype as he is the leader and king and he is the \alert{main saver} of the story
+- The hero in Odyssey is \alert{Odysseus}---He conforms to his archetype as he is the leader and king and he is the \alert{main saver} of the story
 
-- The hero in Mulan is \alert{Mulan} - Mulan conforms to her archetype because she \alert{saves the whole of China}
+- The hero in Mulan is \alert{Mulan}---Mulan conforms to her archetype because she \alert{saves the whole of China}
 
 ## Similarities
 
@@ -458,9 +458,9 @@
 
 ## The Hermit/ Helper/ Mentor
 
-- The helper in Odyssey is \alert{Goddess Athena} - She conforms to her archetype by \alert{helping} through the journey
+- The helper in Odyssey is \alert{Goddess Athena}---She conforms to her archetype by \alert{helping} through the journey
 
-- The helper in Mulan is \alert{Mushu} - Mushu conforms to his archetype as he \alert{guides} her and \alert{convinces} her to not give up
+- The helper in Mulan is \alert{Mushu}---Mushu conforms to his archetype as he \alert{guides} her and \alert{convinces} her to not give up
 
 ## Similarities
 
@@ -474,9 +474,9 @@
 
 ## The Dream Person
 
-- The dream person in Odyssey is \alert{Penelope} - She conforms to the archetype as she is /alert{married to Odysseus}
+- The dream person in Odyssey is \alert{Penelope}---She conforms to the archetype as she is /alert{married to Odysseus}
 
-- The dream person in Mulan is the \alert{Captain} - He conforms to the archetype as Mulan and the Captain \alert{like each other}
+- The dream person in Mulan is the \alert{Captain}---He conforms to the archetype as Mulan and the Captain \alert{like each other}
 
 ## Similarities
 
@@ -485,9 +485,9 @@
 
 ## The Threshold Guardian
 
-- The threshold guardian in Odyssey are the \alert{Lotus Eaters} - They \alert{test} Odysseus' strength and ability to problem solve by making his men forget about home.
+- The threshold guardian in Odyssey are the \alert{Lotus Eaters}---They \alert{test} Odysseus' strength and ability to problem solve by making his men forget about home.
 
-- The threshold guardian in Mulan are the \alert{ancestors} - They conform to the archetype as they are \alert{not real} people and \alert{guide} Mushu to help Mulan
+- The threshold guardian in Mulan are the \alert{ancestors}---They conform to the archetype as they are \alert{not real} people and \alert{guide} Mushu to help Mulan
 
 ## Similarities
 
@@ -499,9 +499,9 @@
 
 ## The Trickers
 
-- The tricker in Odyssey is \alert{Poseidon} - Poseidon conforms to the archetype by \alert{tricking} Odysseus through the adventure
+- The tricker in Odyssey is \alert{Poseidon}---Poseidon conforms to the archetype by \alert{tricking} Odysseus through the adventure
 
-- The trickers in Mulan is \alert{Mushu} - Mushu conforms to the archetype by creating \alert{lies} to the consul
+- The trickers in Mulan is \alert{Mushu}---Mushu conforms to the archetype by creating \alert{lies} to the consul
 
 ## Similarities
 
@@ -514,9 +514,9 @@
 
 ## The Herald
 
-- The herald in Odyssey is the \alert{starting} \alert{of} the \alert{war} in Troy - This conforms to the archetype because it tells Odysseus to \alert{go to war}
+- The herald in Odyssey is the \alert{starting} \alert{of} the \alert{war} in Troy---This conforms to the archetype because it tells Odysseus to \alert{go to war}
 
-- The herald in Mulan is \alert{Mushu} and the \alert{Consul} of the Emperor - He conforms to the archetype by \alert{telling the news} to the Captain
+- The herald in Mulan is \alert{Mushu} and the \alert{Consul} of the Emperor---He conforms to the archetype by \alert{telling the news} to the Captain
 
 ## Similarities
 
