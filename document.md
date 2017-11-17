@@ -514,7 +514,7 @@
 
 ## The Herald
 
-- The herald in Odyssey is the \alert{starting} \alert{of} the \alert{war} in Troy---This conforms to the archetype because it tells Odysseus to \alert{go to war}
+- The herald in Oyssey is the \alert{starting} \alert{of} the \alert{war} in Troy---This conforms to the archetype because it tells Odysseus to \alert{go to war}
 
 - The herald in Mulan is \alert{Mushu} and the \alert{Consul} of the Emperor---He conforms to the archetype by \alert{telling the news} to the Captain
 
