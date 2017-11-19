@@ -23,25 +23,17 @@ opposites already.
 
 ## Mulan
 
-- Witnesses her father being conscripted
-
-- Knows he will die in war
-
-- Decides to disguise herself as a male to save her father
+Mulan witnesses her father being conscripted, and immediately realises that he
+will die in war. She decides to disguise herself as a male to save her father.
 
 ## Odyssey
 
-- Odysseus sets out for the war in Troy.
+Odysseus sets out for the war in Troy.
 
 ## Comparison
 
-- Odyssey
-
-    - Motivation is to save his people
-
-- Mulan
-
-    - Motivation for adventure is saving her father
+Odysseus' motivation is to save his people, while Mulan's motivation for
+adventure is saving her father.
 
 # Refusal of the call
 
