@@ -147,35 +147,25 @@ more dangerous, which sets the tone for the Supreme Ordeal that lies ahead.
 
 ## Mulan
 
-- Army is ambushed by the Huns who are hiding behind the summit of the mountain
-
-- All hope is lost
-
-- Mulan saves everyone by firing a rocket into an overhang of snow, causing an
-  avalanche
-
-- She kills almost everyone, but some of the army survive
-
-- The rest of the army realises that Mulan is female after undressing her to
-  tend to a wound she had sustained
+Mulan's army is ambushed by the Huns who are hiding behind the summit of the
+mountain. At first it seems that all hope is lost, but then Mulan saves
+everyone by firing a rocket into an overhang of snow, causing an avalanche.
+Almost all members of the army and the Huns are buried in the snow, never to be
+seen again (or so we think...). As Mulan was firing the rocket, she is stabbed
+by Shang Yu, the leader of the Huns. After the avalanche has passed, other
+members of the army tend to Mulan's wound, undressing her. They realise thatshe
+is a female!
 
 ## Odyssey
 
-- Odysseus is sent to the underworld seeking information to guide him home
-
-- This quest brings him to the verge of death
+Odysseus is sent to the underworld seeking information to guide him home, which
+unfortunately brings him to the verge of death!
 
 ## Comparison
 
-- Mulan
-
-    - Sustains little damage
-
-- Odyssey
-
-    - Sustains comparatively huge personal damage
-
-- In general much more extreme storyline in the Odyssey
+Mulan sustains little damage, having only suffered a small gash, while Odysseus
+is brought to the *verge of death*! That is comparatively huge personal damage.
+The storyline is, in general, much more extreme and serious in the Odyssey.
 
 # Reward
 
