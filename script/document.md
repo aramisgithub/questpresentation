@@ -261,36 +261,26 @@ a bit of disguising and imagination.
 
 ## Mulan
 
-- Instead, the Emperor hands Mulan a sword and a necklace
-
-- Mulan returns home with the captain in tow to the delight of her family
-
-- Mulan's family is also impressed with the gifts Mulan received
+Because Mulan didn't accept the Emperor's gift of a seat on the council, the
+Emperor hands her a sword and a necklace instead. Mulan's family had always
+longed for her to get into a relationship, so they are delighted when Mulan
+returns home with the captain in tow. Obviously, Mulan's family is also
+extremely impressed with the gifts she received (who wouldn't be?!).
 
 ## Odyssey
 
-- Odysseus, still dressed as a beggar, completes the task and is restored to
-  his original state
-
-- He and his son expel the suitors from their home by force
-
-- Penelope, seeing how Odysseus has changed, tests him to make sure it is
-  actually him
-
-- She tells him she moved their bed
-
-- He replies, correctly, that this would have been impossible, and all is
-  returned to normal
+Odysseus, still dressed as a beggar, completes the task and is restored to his
+original state. He and his son expel the suitors from their home by force.
+Penelope, seeing how Odysseus has changed, tests him to make sure it is
+actually him. She tells him she moved their bed, to which he replies correctly
+that this would have been impossible, and all is returned to normal.
 
 ## Comparison
 
-- Both noble and dramatic
-
-- Odyssey slightly more dramatic IMHO
-
-- Mulan scenario very unrealistic
-
-- Assuming all mystical creatures are real, Odyssey scenario quite realistic
+Both scenarios are noble and dramatic, but it could be argued that the Odyssey
+is slightly more dramatic. Mulan's scenario is very unrealistic, while,
+assuming all mystical creatures are real, the Odyssey scenario is quite
+realistic after all.
 
 # Archetypes
 
