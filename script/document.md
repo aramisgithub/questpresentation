@@ -124,31 +124,24 @@ life-or-death scenarios, and is more serious than the tests found in Mulan.
 
 ## Mulan
 
-- Army goes to a village the Huns decimated after being tricked by Mushu into
-  going to war with the Huns
+The army that Mulan is a part of travels to a village the Huns decimated after
+being tricked by Mushu into going to war with the Huns.
 
 ## Odyssey
 
-- Odysseus nearly makes it home
-
-- His crew opens a bag that had been given to Odysseus by Aeolus, god of the
-  winds
-
-- When the bag is opened, it releases a wind that blows them far away from
-  Ithaca
+Odysseus nearly makes it home, but unfortunately for him and his crew they open
+a bag that had been given to Odysseus by Aeolus, god of the winds. The bag
+released a wind that blew them far away from Ithaca after it was sadly opened.
 
 ## Comparison
 
-- Mulan
-
-    - The Approach is much more subdued in Mulan, and feels "set" and
-      "official" due to the government involvement in the whole situation
-
-- Odyssey
-
-    - Approach in the Odyssey more lertspontaneous, integrating surprise
-
-    - It is more dangerous, setting the tone for the Supreme Ordeal
+The Approach is much more subdued in Mulan, and feels "set" and "official" due
+to the government involvement in the whole situation. The very fact that the
+military is involved in an organised and official manner subdues the entire
+situation because it feels  like the government is keeping everyone safe. The
+Odyssey's Approach could not be a more direct polar opposite to the one found
+in Mulan. It is spontaneous, surprising, and completely unregulated. It is also
+more dangerous, which sets the tone for the Supreme Ordeal that lies ahead.
 
 # Supreme ordeal
 
