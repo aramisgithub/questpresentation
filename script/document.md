@@ -197,40 +197,31 @@ a classic hero home.
 
 ## Mulan
 
-- Mulan realises most of the Huns did not die in the avalanche after all
-  
-- Decides to make her way towards the Imperial Palace
-
-- Decides that she is obligated to save China, instead of just going home
-
-- Mulan arrives at the Imperial palace and attempts to convince the others that
-  the Huns are in fact not dead, and that they are there, trying to lertmurder
-  the Emperor
+Mulan glimpses some of the Huns rising out of the snow, and realises most of
+the Huns did not die in the avalanche after all, and must make her way towards
+the Imperial Palace. She deliberates for a while whether she should just go
+home or save China, but decides that saving China is the only proper option.
+Mulan arrives at the Imperial palace and attempts to convince the others from
+the army that the Huns are in fact not dead, and that they are there, trying to
+murder the Emperor.
 
 ## Odyssey
 
-- Unlike other heroes, Odysseus was not in search of treasure
-
-- Instead, he was desperately trying to reach his home
-
-- Once he returns, he finds out that his house has been overrun with suitors
-  trying to steal his wife and palace
+Unlike other heroes, Odysseus was not in search of treasure. Instead, he was
+desperately trying to reach his home. Once he returns, he finds out that his
+house has been overrun with suitors trying to steal his wife and palace.
 
 ## Comparison
 
-- Mulan
-
-    - In this case, Mulan's story is much more dramatic and heroic
-
-    - Trying to save China!
-
-- Odyssey
-
-    - Much more noble
-
-    - Not as dramatic
-
-    - Lower stakes
+In this extremely rare case, Mulan's story is much more dramatic and heroic,
+while incorporating some grand and *creative* ideas (Trying to save China!
+Yeah!) The Odyssey's Road Back is much more noble than Mulan's, as Mulan is
+dumped by her friends while Odysseus is desperately trying to find his home to
+make sure his wife and son are alright. Admittedly, the idea of someone trying
+to return to their family is not nearly as dramatic or interesting as a brave
+woman who was kicked out of the military for being female while trying to save
+her father. Plus, the stakes are much lower in the Odyssey (All of China versus
+one family)
 
 # Resurrection
 
