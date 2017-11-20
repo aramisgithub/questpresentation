@@ -57,34 +57,23 @@ clearly demonstrates that Odysseus believes in himself, while Mulan does not.
 
 ## Mulan
 
-- Mulan meets with the captain
-
-- Is inspired by his ridiculing of the soldiers to improve her battle skills
+The captain fills the role of the Mentor in Mulan, who is inspired by his
+ridiculing of the soldiers to improve her battle skills and not fall behind the
+others. She is determined to excel in the new life that she has found.
 
 ## Odyssey
 
-- Athena, the goddess of wisdom, crafts, and battle is Odysseus' guide
-
-- Wants to help Odysseus, though she has been instructed not to
-
-- Takes pity on him while other gods forsake Odysseus
-
-- Constantly saves him from death
-
-- Gives him guidance
+Athena, the goddess of wisdom, crafts, and battle is Odysseus' guide. Sh wants
+to help Odysseus, though she has been instructed not to by the other gods. She
+takes pity on him while other gods forsake Odysseus for this very reason.
+Athena constantly saves him from death while giving him guidance.
 
 ## Comparison
 
-- Mulan
-
-    - Does not have a person that constantly guards her
-
-- Odyssey
-
-    - Odysseus does
-
-- May indicate that Odysseus' struggles will be so much more difficult that he
-  needs others to guard him
+Mulan does not have a person that constantly guards her, while Odysseus does.
+This may be an indication that Odysseus' struggles will be so much more
+difficult that he needs others to guard him, unlike Mulan whose childish little
+"adventures" do not really amount to much.
 
 # Crossing the threshold
 
