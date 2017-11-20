@@ -171,32 +171,27 @@ The storyline is, in general, much more extreme and serious in the Odyssey.
 
 ## Mulan
 
-- Instead of the reward going to the hero, it goes to the others in the army
-  after they realise Mulan is female
-
-- The reward consists of beating the Huns and not perishing
-
-- Mulan is left to die in the snow with Mushu, the cricket and her horse
+As Mulan does not yet receive a reward, the rules must be bent slightly to
+allow the reward to go to the others in the army after they realise Mulan is
+female. As this reward is in a more unorthodox sense, you might be wondering
+what the reward consists of. Well, it consists of beating the Huns and not
+perishing! Lame, I know. Under normal circumstances, Mulan would be executed,
+but her life is spared due to her spectacular performance and, you know,
+*saving everyone*! To reach a middle ground between *being executed* and
+staying in the army (which are both unacceptable outcomes), Mulan is left to
+die in the snow with Mushu, the cricket and her horse.
 
 ## Odyssey
 
-- The King of Phaeacia gives Odysseus passage home
+The King of Phaeacia gives Odysseus passage home.
 
 ## Comparison
 
-- Mulan
-
-    - Reward is vague
-
-    - Cannot really be classified as reward
-
-- Odyssey
-
-    - Powerful kings of faraway lands lead the classic hero home
-
-    - I like it!
-
-    - More epic in general
+The reward in Mulan is vague, and cannot really be classified as reward. Again,
+this is completely contrary to the reward in the Odyssey, which is as
+traditional as a reward can get. On another note, the Odyssey is much more epic
+in general, as goes for any story in which powerful kings of faraway lands lead
+a classic hero home.
 
 # The road back
 
