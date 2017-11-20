@@ -39,30 +39,19 @@ adventure is saving her father.
 
 ## Mulan
 
-- Doubts her disguising abilities and almost gives up in front of the training
-  camp
-
-- Mushu convinces her to go anyway
+Mulan doubts her disguising abilities and almost gives up in front of the
+training camp, but Mushu convinces her to go, despite her fears that she will
+be uncovered.
 
 ## Odyssey
 
-- He does not want to leave his family and sail to Troy
-
-- Knows it will be a long trip
-
-- Is worried that something bad could occur during his absence
+Odysseus does not want to leave his family and sail to Troy because he knows it
+will be a long trip. He worried that something bad might occur during his trip.
 
 ## Comparison
 
-- Mulan
-
-    - Fears for herself
-
-- Odyssey
-
-    - Fears for others
-
-- Shows that Odysseus believes in himself, while Mulan does not
+While Mulan fears for herself, the confident Odysseus fears for others. This
+clearly demonstrates that Odysseus believes in himself, while Mulan does not.
 
 # Meeting with the mentor
 
