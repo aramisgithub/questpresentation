@@ -79,25 +79,23 @@ difficult that he needs others to guard him, unlike Mulan whose childish little
 
 ## Mulan
 
-- Mulan comes to be respected by the others in the army for her skill
+After getting into he swing of things and getting better and better at being
+a warrior, Mulan comes to be respected by the others in the army for her skill
+and sportsmanship.
 
 ## Odyssey
 
-- After the war, the gods become angry with the Greeks for their prideful ways
-
-- A great storm emerges and throws them off course
+After the war, the gods become angry with the Greeks for their prideful ways.
+Indeed, the gods are *so* angry that they form a great storm which emerges and
+throws the Greeks off course. The gods sure do hate those Greeks!
 
 ## Comparison
 
-- Odyssey
-
-    - Does not have a real threshold to cross
-
-- Mulan
-
-    - Mulan does
-
-- Implying that Odysseus' journey will be longer and more drawn out
+Odysseus and his crew do not really have a real threshold to cross, while Mulan
+does. The fact that the Odyssey does *not* have a threshold might signal that
+the threshold is so drawn out that it isn't noticed. The threshold being drawn
+out may also suggest that the rest of the journey will be more laborious and
+arduous.
 
 # Tests, allies, enemies
 
