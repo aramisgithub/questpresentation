@@ -227,50 +227,35 @@ one family)
 
 ## Mulan
 
-- No one believes her, because they believe that Mulan cannot be trusted as she
-  had already lied to them before
-
-- The Huns reveal themselves, and the remaining members of the army, directed
-  by the captain, attempt to ram the Imperial Palace's doors open, to no avail
-
-- Mulan eventually convinces all members of the army to join her in her plan to
-  disguise themselves as women
-
-- Mulan's plan succeeds, and she is rewarded by the Emperor by being offered
-  a seat on the Imperial Council, which she declines
+No one believes her, because they believe that Mulan cannot be trusted as she
+had already lied to them before. The Huns reveal themselves, and take the
+Emperor hostage within his own palace. Some of the Huns are guarding the doors
+from inside the palace. The remaining members of the army, directed by the
+captain, attempt to ram the Imperial Palace's doors open, but to no avail.
+Mulan eventually convinces all members of the army to join her in her plan to
+disguise themselves as women, sneak into the palace, assault the Huns and free
+the Emperor. Mulan's plan succeeds, and she is rewarded by the Emperor by being
+offered a seat on the Imperial Council, which she politely declines.
 
 ## Odyssey
 
-- Instead of rushing in and killing the suitors, Odysseus is patient
-
-- He wishes to learn if his wife has been faithful
-
-- With the help of his son and a loyal swineherd, he devises a plan
-
-- Athena disguises him as an old beggar so that he can enter his house
-  undetected
-
-- Telemachus steals all the suitors’ weapons, and a final test is proposed
-
-- Penelope will marry the man who strings Odysseus' bow and shoots an arrow
-  through a line of small circles; a seemingly impossible task
+Instead of rushing in and killing the suitors, Odysseus is patient. He wishes
+to learn if his wife has been faithful. With the help of his son and a loyal
+swineherd, he devises a plan. Athena disguises him as an old beggar so that he
+can enter his house undetected. Telemachus steals all the suitors’ weapons, and
+a final test is proposed. Penelope will marry the man who strings Odysseus' bow
+and shoots an arrow through a line of small circles; a seemingly impossible
+task
 
 ## Comparison
 
-- Mulan
-
-    - Much more dramatic
-
-    - Not very patient or mature
-
-- Odyssey
-
-    - Very mature way to handle situation
-
-    - Cunning
-
-- Implies that Odysseus is mature and clever, while Mulan's plan is just brute
-  force with a bit of disguising
+The situation in Mulan is much more dramatic, but is a childish, impatient and
+immature plan that would not have a chance of working in real life. Once more,
+a complete antithesis is presented by the Odyssey in the form of a mature,
+realistic and clever way to handle a plausible situation (ignoring all magic
+and mythical creatures of course). The plan being mature and clever implies
+that Odysseus is mature and clever, while Mulan's plan is just brute force with
+a bit of disguising and imagination.
 
 # Return with the elixir
 
