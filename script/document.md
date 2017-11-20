@@ -101,39 +101,24 @@ arduous.
 
 ## Mulan
 
-- Mulan improves her skills and becomes even better at being male
+Mulan improves her skills and becomes even better at being male in a montage
+with a catchy song that Harrison seems to really enjoy (*Let's get down to
+buissness---To defeat---The Huns!*)
 
 
 ## Odyssey
 
-- Odysseus is faced with many tests as he travels back to Ithaca:
-
-    - Polyphemus
-
-    - Circones
-
-    - Lotus Eaters
-
-    - Lastrygonians
-
-    - Sirens
-
-    - Scylla & Charybdis
-
-    - Cattle of the Sun God
+Odysseus is faced with many tests as he travels back to Ithaca which include
+many of the famous and well-known Greek mythological creatures in popular
+culture. This list of creatures includes the Lotus Eaters, the Sirens and also
+Scylla.
 
 ## Comparison
 
-- Mulan
-
-    - Implied that Mulan's journey will be soft and easy
-
-    - Only vague "montage-y" tests, allies, enemies in the form of lerttraining
-
-- Odyssey
-
-    - Journey has real life-or-death scenarios, and is more lertserious than
-      Mulan
+The fact that Mulan had to endure only vague "montage-y" tests, allies, enemies
+in the form of training implies that Mulan's journey will be soft and easy.
+This is in direct contrast to the Odyssey's journey, which has real
+life-or-death scenarios, and is more serious than the tests found in Mulan.
 
 # Approach to the innermost cave
 
