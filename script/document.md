@@ -329,25 +329,23 @@ the faults. The exact opposite is true for Odysseus: his faults are ones no one
 would be happy owning up to, and the people that have these faults would not be
 inclined to admitting anything wrong with themselves anyway.
 
-## The Hermit/ Helper/ Mentor
+## The Hermit/Helper/Mentor
 
-- The helper in Odyssey is Goddess Athena
-
-    - She conforms to her archetype by helping through the journey
-
-- The helper in Mulan is Mushu
-
-    - Mushu conforms to his archetype as he guides her and convinces her to not
-      give up
+There is often a helper or mentor in a Hero's Quest. The mentor or helper must
+always aid the hero in their quest for the elixir. The helper in Odyssey is
+Goddess Athena, who conforms to her archetype by helping through the journey.
+The helper in Mulan also conforms to the archetype, but in a different way.
+Mushu, the helper in Mulan guides her and helps her as a helper should do, but
+he is also cunning and accidentally (or maybe on purpose) starts a war between
+Mulan's army and the Huns by tricking the consul into thinking that the army
+was needed at the battlefront, even though they really weren't. Mushu also
+helps Mulan by convincing her to not give up and to overcome the Threshold.
 
 ## Similarities
 
-- The characters in each movie and book help the protagonist.
-
-- In the movie Mulan, Mushu helps her by cheering her spirit and gives her
-  confidence
-
-- In comparison, Athena in the Odyssey, sends him divine aid and help
+The characters in both help the protagonist, but in different ways: Mushu helps
+Mulan by cheering her spirit and gives her confidence, while Athena sends
+Odysseus divine aid and help.
 
 ## The Dream Person
 
