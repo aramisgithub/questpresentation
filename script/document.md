@@ -349,38 +349,34 @@ Odysseus divine aid and help.
 
 ## The Dream Person
 
-- The dream person in Odyssey is Penelope
-
-    - She conforms to the archetype as she is married to Odysseus
-
-- The dream person in Mulan is the Captain
-
-    - He conforms to the archetype as Mulan and the Captain like each other
+Almost all works of fiction of any kind are partial to some romance, but what
+better time to be romantic than during an epic quest to find the lost elixir!
+The dream person in Odyssey is Penelope, who conforms to the archetype of the
+dream person by being married to Odysseus. The dream person in Mulan is much
+less cemented than the marriage that can be found in the Odyssey, as the dream
+person in Mulan does not reveal their true nature until the very end of the
+movie. The Captain conforms to the archetype by liking Mulan, and Mulan liking
+him back.
 
 ## Similarities
 
-- In comparison, Odysseus is married to Penelope whereas Mulan and the Captain
-  aren't
+Odysseus is married to Penelope whereas Mulan and the Captain aren't. There
+aren't many other notable differences.
 
 ## The Threshold Guardian(s)
 
-- The threshold guardians in Odyssey are the Lotus Eaters
-
-    - They test Odysseus' strength and ability to problem solve by making his
-      men forget about home.
-
-- The threshold guardians in Mulan are the ancestors
-
-    - They conform to the archetype as they are not real people and guide Mushu
-      to help Mulan
+The threshold guardians play the role of those that make sure the hero is ready
+to enter the Special World. The threshold guardians in the Odyssey are the
+Lotus Eaters, who test Odysseus' strength and ability to problem solve by
+making his men forget about home. The threshold guardians in Mulan are the
+ancestors, who conform to their archetype by not being real people and guiding
+Mushu to help Mulan.
 
 ## Similarities
 
-- In Mulan, the threshold guardians want to bring her back to not fight for the
-  war
-
-- In comparison, the Lotus Eaters are native to their land and help the Odyssey
-  crew with the 'lotus' fruits
+In Mulan, the threshold guardians want to bring her back to not fight for the
+war. In comparison, the Lotus Eaters are native to their land and help the
+Odyssey crew with the 'lotus' fruits.
 
 ## The Tricker
 
