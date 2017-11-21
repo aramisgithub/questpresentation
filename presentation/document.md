@@ -9,7 +9,7 @@
 
 - She is quite \alert{clumsy}
 
-- \alert{Embarrasses} herself in front of the matchmaker
+<!--- \alert{Embarrasses} herself in front of the matchmaker--!>
 
 ## Odyssey
 
@@ -39,9 +39,9 @@
 
 - Witnesses her father being \alert{conscripted}
 
-- Knows he will \alert{die} in war
+- Knows he will \alert{die}
 
-- Decides to \alert{disguise} herself as a male to \alert{save} her father
+- Decides to \alert{disguise} herself
 
 ## Odyssey
 
@@ -61,8 +61,9 @@
 
 ## Mulan
 
-- \alert{Doubts} her disguising abilities and \alert{almost gives up} in front
-  of the training camp
+- \alert{Doubts} her disguising abilities
+
+- \alert{Almost gives up} in front of the training camp
 
 - Mushu convinces her to \alert{go anyway}
 
@@ -100,7 +101,9 @@
 - \alert{Athena}, the goddess of wisdom, crafts, and battle is Odysseus'
   \alert{guide}
 
-- Wants to \alert{help} Odysseus, though she has been instructed \alert{not} to
+- Wants to \alert{help} Odysseus
+
+- Has been instructed \alert{not} to
 
 - Takes \alert{pity} on him while other gods \alert{forsake} Odysseus
 
@@ -192,8 +195,9 @@
 
 ## Mulan
 
-- Army goes to a \alert{village} the Huns decimated after being \alert{tricked}
-  by Mushu into going to war with the Huns
+- Army goes to a \alert{village} the Huns decimated
+
+- Mushu \alert{tricked} them into going to war with the Huns
 
 ## Odyssey
 
@@ -209,36 +213,47 @@
 
 - Mulan
 
-    - The Approach is much more \alert{subdued} in Mulan, and feels "set" and
-      "official" due to the government involvement in the whole situation
+    - More \alert{subdued} in Mulan
+
+    - Feels "set" and "official" due to the government involvement in the whole
+      situation
 
 - Odyssey
 
-    - Approach in the Odyssey more \alert{spontaneous}, integrating surprise
+    - Approach in the Odyssey more \alert{spontaneous}
 
-    - It is more \alert{dangerous}, setting the tone for the Supreme Ordeal
+    - Integrates surprise
+
+    - More \alert{dangerous}
+
+    - Sets the tone for Supreme Ordeal
 
 # supreme ordeal
 
 ## Mulan
 
-- Army is \alert{ambushed} by the Huns who are hiding behind the summit of the
-  mountain
+- Army is \alert{ambushed} by the Huns
 
-- All hope is lost
+- They are hiding behind summit of mountain
 
-- Mulan \alert{saves} everyone by firing a \alert{rocket} into an overhang of
-  snow, causing an avalanche
+<!--- All hope is lost--!>
 
-- She \alert{kills} almost \alert{everyone}, but some of the army survive
+- Mulan \alert{saves} everyone by firing a \alert{rocket} into overhang of snow
+
+- Causes an avalanche
+
+- She \alert{kills} almost \alert{everyone}
+
+- Some of the army survive
 
 - The rest of the army \alert{realises} that Mulan is \alert{female} after
   undressing her to tend to a wound she had sustained
 
 ## Odyssey
 
-- Odysseus is sent to the \alert{underworld} seeking \alert{information} to
-  \alert{guide} him home
+- Odysseus is sent to the \alert{underworld}
+
+- He is seeking \alert{information} to \alert{guide} him home
 
 - This quest brings him to the \alert{verge} of \alert{death}
 
@@ -258,8 +273,10 @@
 
 ## Mulan
 
-- Instead of the \alert{reward} going to the hero, it goes to the
-  \alert{others} in the army after they realise Mulan is female
+- \alert{Reward} does not go to the hero
+
+- Goes instead to the \alert{others} in the army after they realise Mulan is
+  female
 
 - The reward consists of \alert{beating} the Huns and \alert{not perishing}
 
@@ -293,15 +310,13 @@
 
 - Mulan realises most of the Huns did \alert{not die} in the avalanche after
   all
-  
+
 - Decides to make her way \alert{towards} the \alert{Imperial Palace}
 
-- Decides that she is obligated to \alert{save} China, instead of just
-  \alert{going home}
+- Decides that she is obligated to \alert{save} China
 
-- Mulan arrives at the Imperial palace and attempts to \alert{convince} the
-  others that the Huns are in fact \alert{not dead}, and that they are there,
-  trying to \alert{murder} the Emperor
+- Does not manage to \alert{convince} the others in the army that the Huns are
+  in fact \alert{not dead} and are trying to \alert{murder} the Emperor
 
 ## Odyssey
 
@@ -333,18 +348,27 @@
 
 ## Mulan
 
-- No one believes her, because they believe that Mulan \alert{cannot be
-  trusted} as she had already \alert{lied} to them before
+- No one believes her
 
-- The Huns reveal themselves, and the remaining members of the army, directed
-  by the captain, attempt to \alert{ram} the Imperial Palace's doors open,
-  \alert{to no avail}
+- They believe that Mulan \alert{cannot be trusted}
+
+    - She had already \alert{lied} to them before
+
+- The Huns reveal themselves
+
+- Remaining members of the army attempt to \alert{ram} the Imperial Palace's
+  doors open
+
+- \alert{To no avail}
 
 - Mulan eventually \alert{convinces} all members of the army to \alert{join
-  her} in her plan to disguise themselves as women
+  her}
+ 
+- Her plan is to disguise themselves as women
 
-- Mulan's plan \alert{succeeds}, and she is \alert{rewarded} by the Emperor by
-  being offered a seat on the Imperial Council, which she declines
+- Mulan's plan \alert{succeeds}
+
+- Is \alert{rewarded} by Emperor
 
 ## Odyssey
 
@@ -352,16 +376,17 @@
 
 - He wishes to learn if his \alert{wife} has been \alert{faithful}
 
-- With the help of his son and a loyal swineherd, he devises a plan
+- He devises a plan
 
 - Athena \alert{disguises} him as an old beggar so that he can enter his house
   undetected
 
-- Telemachus steals all the suitors’ weapons, and a \alert{final test} is
-  proposed
+- Telemachus steals all the suitors’ weapons
+
+- \alert{Final test} is proposed
 
 - Penelope will marry the man who strings Odysseus' bow and shoots an arrow
-  through a line of small circles; a seemingly \alert{impossible} task
+  through a line of small circles
 
 ## Comparison
 
@@ -377,34 +402,40 @@
 
     - \alert{Cunning}
 
-- Implies that Odysseus is \alert{mature} and \alert{clever}, while Mulan's
-  plan is just \alert{brute force} with a bit of disguising
+- Implies that Odysseus is \alert{mature} and \alert{clever}
+
+- Mulan's plan is just \alert{brute force} with a bit of disguising
 
 # return with the elixir
 
 ## Mulan
 
-- Instead, the Emperor hands Mulan a \alert{sword} and a \alert{necklace}
+<!--- Instead, the Emperor hands Mulan a \alert{sword} and
+a \alert{necklace}--!>
 
-- Mulan \alert{returns} home with the captain in tow to the \alert{delight} of
-  her family
+- Mulan \alert{returns} home with the captain in tow
 
-- Mulan's family is also \alert{impressed} with the gifts Mulan received
+- Her family is \alert{delighted}
+
+<!--- Mulan's family is also \alert{impressed} with the gifts Mulan
+received--!>
 
 ## Odyssey
 
-- Odysseus, still dressed as a beggar, completes the task and is
-  \alert{restored} to his original state
+- Odysseus, still dressed as a beggar, completes the task
 
-- He and his son \alert{expel} the suitors from their home by \alert{force}
+- Is \alert{restored} to his original state
+
+- He and his son \alert{expel} suitors
 
 - Penelope, seeing how Odysseus has changed, \alert{tests} him to make sure it
   is \alert{actually him}
 
 - She tells him she moved their bed
 
-- He replies, correctly, that this would have been impossible, and all is
-  \alert{returned to normal}
+- He replies, correctly, that this would have been impossible
+
+- All is \alert{returned to normal}
 
 ## Comparison
 
@@ -423,23 +454,22 @@
 
 - Odyssey has \alert{Poseidon}
 
-    - Poseidon conforms to his archetype as he always creates \alert{trouble}
-      to Odysseus
+<!--    - conforms to archetype creates \alert{trouble} to Odysseus--!>
 
 - The Shadow in Mulan is \alert{Shang Yu}
 
-    - Shang Yu conforms to his archetype as he is the \alert{leader of the
-      Huns}
+<!--    - Shang Yu conforms to his archetype as he is the \alert{leader of the
+Huns}--!>
 
 ## Similarities
 
-- Both of the characters are \alert{villains}
+- Both the characters are \alert{villains}
 
-- In the Odyssey, Poseidon \alert{isn't} the main \alert{threat} to Odysseus
+- Poseidon \alert{isn't} the main \alert{threat}
 
-- The \alert{main} problem is the \alert{war}
+    - \alert{Main} problem is \alert{war}
 
-    - But Poseidon still causes \alert{trouble} throughout the journey
+    - Poseidon still causes \alert{trouble} throughout journey
 
 - Poseidon is more \alert{cunning} and \alert{mischievous} in comparison to
   a big, more \alert{traditional} villain like Shang Yu
@@ -448,20 +478,31 @@
 
 - The hero in Odyssey is \alert{Odysseus}
 
-    - He conforms to his archetype as he is the leader and king and he is the
-      \alert{main saver} of the story
+<!--    - He conforms to his archetype as he is the leader and king and he is
+the \alert{main saver} of the story--!>
 
 - The heroine in Mulan is \alert{Mulan}
 
-    - Mulan conforms to her archetype by \alert{saving the whole of China}
+<!--    - Mulan conforms to her archetype by \alert{saving the whole of
+China}--!>
 
 ## Similarities
 
-- Mulan is introduced as a \alert{free-spirited} outcast, clumsy, and
-  \alert{unable} to follow \alert{rules}, regulations, or traditions
-  
-- Nevertheless, she has a \alert{warm heart} and wants nothing more than to
-  \alert{uphold} her family \alert{honor}, while keeping true to herself
+- Mulan is introduced as
+
+    - \alert{free-spirited} outcast
+
+    - Clumsy
+
+    - \alert{Unable} to follow \alert{rules}, regulations, or traditions
+
+- Has \alert{warm heart}
+
+- Wants nothing more than to:
+
+    - \alert{Uphold} her family \alert{honor}
+
+    - Keep true to self
 
 - Odysseus has two major \alert{flaws}:
 
@@ -469,26 +510,28 @@
 
     - Pride
 
-- In comparison, Mulan is very \alert{selfless} and puts \alert{others before
-  her}
+<!--- In comparison, Mulan is very \alert{selfless} and puts \alert{others
+before her}--!>
 
 ## The Hermit/ Helper/ Mentor
 
 - The helper in Odyssey is \alert{Goddess Athena}
 
-    - She conforms to her archetype by \alert{helping} through the journey
+<!--    - She conforms to her archetype by \alert{helping} through the
+journey--!>
 
 - The helper in Mulan is \alert{Mushu}
 
-    - Mushu conforms to his archetype as he \alert{guides} her and
-      \alert{convinces} her to not give up
+<!--    - Mushu conforms to his archetype as he \alert{guides} her and
+\alert{convinces} her to not give up--!>
 
 ## Similarities
 
-- The characters in each movie and book \alert{help} the \alert{protagonist}.
+- \alert{Help} the \alert{protagonist}.
 
-- In the movie Mulan, Mushu \alert{helps} her by \alert{cheering} her
-  \alert{spirit} and gives her \alert{confidence}
+- Mushu \alert{helps} her by \alert{cheering} her \alert{spirit}
+
+    - Gives her \alert{confidence}
 
 - In comparison, Athena in the Odyssey, sends him \alert{divine aid} and
   \alert{help}
@@ -497,12 +540,13 @@
 
 - The dream person in Odyssey is \alert{Penelope}
 
-    - She conforms to the archetype as she is \alert{married to Odysseus}
+<!--    - She conforms to the archetype as she is \alert{married to
+Odysseus}--!>
 
 - The dream person in Mulan is the \alert{Captain}
 
-    - He conforms to the archetype as Mulan and the Captain \alert{like each
-      other}
+<!--    - He conforms to the archetype as Mulan and the Captain \alert{like
+each other}--!>
 
 ## Similarities
 
@@ -518,27 +562,28 @@
 
 - The threshold guardians in Mulan are the \alert{ancestors}
 
-    - They conform to the archetype as they are \alert{not real} people and
-      \alert{guide} Mushu to help Mulan
+<!--    - They conform to the archetype as they are \alert{not real} people and
+\alert{guide} Mushu to help Mulan--!>
 
 ## Similarities
 
 - In Mulan, the threshold guardians want to \alert{bring} her \alert{back} to
   \alert{not fight} for the war
 
-- In comparison, the Lotus Eaters are native to their land and \alert{help} the
-  Odyssey crew with the 'lotus' fruits
+- In comparison, the Lotus Eaters are native to their land
+
+- \alert{Help} the Odyssey crew with the 'lotus' fruits
 
 ## The Tricker
 
 - The tricker in Odyssey is \alert{Poseidon}
 
-    - Poseidon conforms to the archetype by \alert{tricking} Odysseus through
-      the adventure
+<!--    - Poseidon conforms to the archetype by \alert{tricking} Odysseus
+through the adventure--!>
 
 - The tricker in Mulan is \alert{Mushu}
 
-    - Mushu conforms to the archetype by \alert{lying} to the consul
+<!--    - Mushu conforms to the archetype by \alert{lying} to the consul--!>
 
 ## Similarities
 
@@ -554,12 +599,13 @@
 - The herald in the Odyssey is the \alert{starting} \alert{of} the \alert{war}
   in Troy
 
-    - This conforms to the archetype because it tells Odysseus to \alert{go to
-      war}
+<!--    - This conforms to the archetype because it tells Odysseus to \alert{go
+to war}--!>
 
 - The herald in Mulan is \alert{Mushu} and the \alert{Consul} of the Emperor
 
-    - He conforms to the archetype by \alert{telling the "news"} to the Captain
+<!--    - He conforms to the archetype by \alert{telling the "news"} to the
+Captain--!>
 
 ## Similarities
 
