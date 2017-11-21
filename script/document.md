@@ -303,27 +303,31 @@ strong.
 
 ## The Hero(ine)
 
-- The hero in Odyssey is main saver of the story
-
-- The heroine in Mulan is Mulan
-
-    - Mulan conforms to her archetype by saving the whole of China
+In most tales of the Hero's Quest the hero or heroine is the main character and
+pushes the story forward, saving many lives in the process. Odysseus fits this
+mold almost perfectly. Mulan, on the other hand, does not really fit into the
+whole "loved by their family" and "respected by everyone" cliché, but she is
+still a hero because she saved the whole of China.
 
 ## Similarities
 
-- Mulan is introduced as a free-spirited outcast, clumsy, and unable to follow
-  rules, regulations, or traditions
-  
-- Nevertheless, she has a warm heart and wants nothing more than to uphold her
-  family honor, while keeping true to herself
-
-- Odysseus has two major flaws:
+Mulan is introduced as a free-spirited outcast, clumsy, and unable to follow
+rules, regulations, or traditions. Nevertheless, she has a warm heart and wants
+nothing more than to uphold her family honor, while keeping true to herself.
+Perhaps Mulan's flaws are her greatest strength because they help the moviegoer
+to identify with the main character, maybe because they have the same faults as
+Mulan. Nevertheless, Odysseus has two major flaws:
 
     - Arrogance
 
     - Pride
 
-- In comparison, Mulan is very selfless and puts others before her
+In comparison, Mulan is very selfless and puts others before her. The parallels
+between  the two characters could not be more symmetric: Mulan has more faults
+than Odysseus, but they are far easier to identify with due to the nature of
+the faults. The exact opposite is true for Odysseus: his faults are ones no one
+would be happy owning up to, and the people that have these faults would not be
+inclined to admitting anything wrong with themselves anyway.
 
 ## The Hermit/ Helper/ Mentor
 
