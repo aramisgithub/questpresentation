@@ -392,16 +392,13 @@ getting him into frustrating situations.
 
 ## The Herald
 
-- The herald in the Odyssey is the starting of the war in Troy
-
-    - This conforms to the archetype because it tells Odysseus to go to war
-
-- The herald in Mulan is Mushu and the Consul of the Emperor
-
-    - He conforms to the archetype by telling the "news" to the Captain
+The herald is the character that warns the other characters of an oncoming
+danger or challenge. The herald in the Odyssey is the starting of the war in
+Troy. This conforms to the archetype because it tells Odysseus to go to war.
+The herald in Mulan is Mushu and the Consul of the Emperor. He conforms to the
+archetype by telling the "news" to the Captain.
 
 ## Similarities
 
-- In Mulan, Mushu lied about going to war; the news was fake
-
-- In Odyssey, the starting of the war warned everyone to stay 
+In Mulan, Mushu lied about going to war; the news was fake, while in the
+Odyssey, the starting of the war warned everyone to stay.
