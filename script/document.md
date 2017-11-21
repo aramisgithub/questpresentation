@@ -380,23 +380,15 @@ Odyssey crew with the 'lotus' fruits.
 
 ## The Tricker
 
-- The tricker in Odyssey is Poseidon
-
-    - Poseidon conforms to the archetype by tricking Odysseus through the
-      adventure
-
-- The tricker in Mulan is Mushu
-
-    - Mushu conforms to the archetype by lying to the consul
+The tricker in Odyssey is Poseidon, who conforms to his archetype by tricking
+Odysseus throughout the adventure. The tricker in Mulan is Mushu, who conforms
+to his archetype by lying to the consul and in general causing mayhem.
 
 ## Similarities
 
-- In Mulan, Mushu tricks the consul to go to war
-
-- Mushu doesn't harm Mulan in any way
-
-- In comparison, Poseidon tricks Odysseus many times by getting him into
-  frustrating situations
+In Mulan, Mushu tricks the consul to go to war, but he doesn't manage to harm
+Mulan in any way, while Poseidon tricks Odysseus many times in harmful ways by
+getting him into frustrating situations.
 
 ## The Herald
 
