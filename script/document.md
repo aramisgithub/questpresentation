@@ -153,7 +153,7 @@ everyone by firing a rocket into an overhang of snow, causing an avalanche.
 Almost all members of the army and the Huns are buried in the snow, never to be
 seen again (or so we think...). As Mulan was firing the rocket, she is stabbed
 by Shang Yu, the leader of the Huns. After the avalanche has passed, other
-members of the army tend to Mulan's wound, undressing her. They realise thatshe
+members of the army tend to Mulan's wound, undressing her. They realise that she
 is a female!
 
 ## Odyssey
@@ -286,27 +286,20 @@ realistic after all.
 
 ## The Shadow
 
-- Odyssey has Poseidon
-
-    - Poseidon conforms to his archetype as he always creates trouble to
-      Odysseus
-
-- The Shadow in Mulan is Shang Yu
-
-    - Shang Yu conforms to his archetype as he is the leader of the Huns
+In the Odyssey, the most prominent Shadow-like character is Poseidon, who
+conforms to his archetype by always creating trouble for Odysseus. The Shadow
+in Mulan, on the other hand, is Shang Yu. He conforms to his archetype because
+he is the leader of the Huns, and it goes without saying that *he is evil*.
 
 ## Similarities
 
-- Both of the characters are villains
-
-- In the Odyssey, Poseidon isn't the main threat to Odysseus
-
-- The main problem is the war
-
-    - But Poseidon still causes trouble throughout the journey
-
-- Poseidon is more cunning and mischievous in comparison to a big, more
-  traditional villain like Shang Yu
+So, some similarities. Both of the characters are villains, in that they both
+harm, or, at least attempt to harm, the hero. In the Odyssey, Poseidon isn't
+the main threat to Odysseus---the main focus for everyone is still the
+war---but Poseidon still causes trouble throughout the journey. Poseidon is
+more cunning and mischievous than your traditional Shadow. In comparison, Shang
+Yu is not exactly the sharpest knife in the drawer, but is quite big and
+strong.
 
 ## The Hero(ine)
 
