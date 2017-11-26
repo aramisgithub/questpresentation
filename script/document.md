@@ -385,11 +385,11 @@ In Mulan, the threshold guardians want to bring her back to not fight for the
 war. In comparison, the Lotus Eaters are native to their land and help the
 Odyssey crew with the 'lotus' fruits.
 
-## The Tricker
+## The Trickster
 
-The tricker in Odyssey is Poseidon, who conforms to his archetype by tricking
-Odysseus throughout the adventure. The tricker in Mulan is Mushu, who conforms
-to his archetype by lying to the consul and in general causing mayhem.
+The trickster in Odyssey is Poseidon, who conforms to his archetype by tricking
+Odysseus throughout the adventure. The trickster in Mulan is Mushu, who
+conforms to his archetype by lying to the consul and in general causing mayhem.
 
 ## Similarities
 
@@ -408,4 +408,4 @@ archetype by telling the "news" to the Captain.
 ## Similarities
 
 In Mulan, Mushu lied about going to war; the news was fake, while in the
-Odyssey, the starting of the war warned everyone to stay.
+Odyssey, the starting of the war warned everyone to stay. 
