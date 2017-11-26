@@ -68,7 +68,7 @@ others. She is determined to excel in the new life that she has found.
 
 ## Odyssey
 
-Athena, the goddess of wisdom, crafts, and battle is Odysseus' guide. Sh wants
+Athena, the goddess of wisdom, crafts, and battle is Odysseus' guide. She wants
 to help Odysseus, though she has been instructed not to by the other gods. She
 takes pity on him while other gods forsake Odysseus for this very reason.
 Athena constantly saves him from death while giving him guidance.
@@ -78,7 +78,8 @@ Athena constantly saves him from death while giving him guidance.
 Mulan does not have a person that constantly guards her, while Odysseus does.
 This may be an indication that Odysseus' struggles will be so much more
 difficult that he needs others to guard him, unlike Mulan whose childish little
-"adventures" do not really amount to much.
+"adventures" do not really amount to much. Of course, this may not be the case,
+and Odysseus is just a little wuss and needs *divine aid*.
 
 # Crossing the threshold
 
