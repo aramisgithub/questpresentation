@@ -85,9 +85,9 @@ and Odysseus is just a little wuss and needs *divine aid*.
 
 ## Mulan
 
-After getting into the swing of things and getting better and better at being
-a warrior, Mulan comes to be respected by the others in the army for her skill
-and sportsmanship.
+This really should come *before* the Meeting with the mentor, but the threshold
+was crossed when Mulan finally walked into the training camp, all tough and
+male.
 
 ## Odyssey
 
