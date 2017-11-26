@@ -131,7 +131,8 @@ life-or-death scenarios, and is more serious than the tests found in Mulan.
 ## Mulan
 
 The army that Mulan is a part of travels to a village the Huns decimated after
-being tricked by Mushu into going to war with the Huns.
+being tricked by Mushu into going to war with the Huns. The music ramps up and
+an encounter with the Huns is all but certain.
 
 ## Odyssey
 
