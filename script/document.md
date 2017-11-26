@@ -34,7 +34,9 @@ Odysseus sets out for the war in Troy.
 ## Comparison
 
 Odysseus' motivation is to save his people, while Mulan's motivation for
-adventure is saving her father.
+adventure is saving her father. This could be interpreted as Mulan only being
+confident in her ability to save one person, while Odysseus is quite sure he
+can save all his people.
 
 # Refusal of the call
 
