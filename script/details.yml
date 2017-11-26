@@ -12,7 +12,7 @@ type: Script
 mainfont: Hoefler Text
 altfont: Avenir Next
 monofont: Courier
-lang: english
+lang: en-UK
 fontsize: 11pt
 doublespacing: false
 raggedright: true
