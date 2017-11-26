@@ -85,7 +85,7 @@ and Odysseus is just a little wuss and needs *divine aid*.
 
 ## Mulan
 
-After getting into he swing of things and getting better and better at being
+After getting into the swing of things and getting better and better at being
 a warrior, Mulan comes to be respected by the others in the army for her skill
 and sportsmanship.
 
