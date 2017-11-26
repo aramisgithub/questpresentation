@@ -422,14 +422,13 @@ received--!>
 
 ## Odyssey
 
-- Odysseus, still dressed as a beggar, completes the task
+- Odysseus completes the task
 
 - Is \alert{restored} to his original state
 
 - He and his son \alert{expel} suitors
 
-- Penelope, seeing how Odysseus has changed, \alert{tests} him to make sure it
-  is \alert{actually him}
+- Penelope \alert{tests} him to make sure it is \alert{actually him}
 
 - She tells him she moved their bed
 
@@ -503,6 +502,16 @@ China}--!>
     - \alert{Uphold} her family \alert{honor}
 
     - Keep true to self
+
+- Mulan is an Unwilling Hero
+
+    - Can be seen when she is hesitant to go on the journey in front of the
+      training camp
+
+    - She is motivated to begin her journey by her father's conscription---an
+      outside force
+
+    - Becomes committed to the adventure in the end
 
 - Odysseus has two major \alert{flaws}:
 
