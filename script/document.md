@@ -53,8 +53,10 @@ will be a long trip. He worried that something bad might occur during his trip.
 
 ## Comparison
 
-While Mulan fears for herself, the confident Odysseus fears for others. This
-clearly demonstrates that Odysseus believes in himself, while Mulan does not.
+While Mulan fears for herself, the confident Odysseus fears for others. Some
+say that the way to tell if a person believes in themselves is to look if they
+genuinely fear for themselves. This clearly demonstrates that Odysseus believes
+in himself, while Mulan does not.
 
 # Meeting with the mentor
 
