@@ -145,7 +145,7 @@ released a wind that blew them far away from Ithaca after it was sadly opened.
 The Approach is much more subdued in Mulan, and feels "set" and "official" due
 to the government involvement in the whole situation. The very fact that the
 military is involved in an organised and official manner subdues the entire
-situation because it feels  like the government is keeping everyone safe. The
+situation because it feels like the government is keeping everyone safe. The
 Odyssey's Approach could not be a more direct polar opposite to the one found
 in Mulan. It is spontaneous, surprising, and completely unregulated. It is also
 more dangerous, which sets the tone for the Supreme Ordeal that lies ahead.
@@ -330,7 +330,7 @@ Mulan. Nevertheless, Odysseus has two major flaws:
     - Pride
 
 In comparison, Mulan is very selfless and puts others before her. The parallels
-between  the two characters could not be more symmetric: Mulan has more faults
+between the two characters could not be more symmetric: Mulan has more faults
 than Odysseus, but they are far easier to identify with due to the nature of
 the faults. The exact opposite is true for Odysseus: his faults are ones no one
 would be happy owning up to, and the people that have these faults would not be
