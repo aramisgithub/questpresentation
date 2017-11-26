@@ -5,7 +5,8 @@
 
 Honor is vital in Mulan. As Mulan dishonours her family, she does not fit into
 the traditional female values that all must adhere to. Mulan is also clumsy and
-embarrasses herself, which also both go against the values.
+embarrasses herself in front of the matchmaker, which also both go against the
+values.
 
 ## Odyssey
 
