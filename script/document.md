@@ -6,15 +6,15 @@
 Honor is vital in Mulan. As Mulan dishonours her family, she does not fit into
 the traditional female values that all must adhere to. Mulan is also clumsy and
 embarrasses herself in front of the matchmaker, which both go against the
-values as well. It is important to remember that Mulan is not doing this on
-purpose, and actually *wants* to be liked and fit in, but she finds this too
-difficult to maintain for more than a short period of time.
+aforementioned values as well. It is important to remember that Mulan is not
+doing this on purpose, and actually *wants* to be liked and fit in, but she
+finds this too difficult to maintain for more than a short period of time.
 
 ## Odyssey
 
 King Odysseus is at home in Ithaca, with his wife, Penelope, and newborn son,
-Telemachus. He is well-liked, popular and respected by his people, which gives
-him pride and happiness.
+Telemachus. Odysseus is well-liked, popular and respected by his people, which
+gives him pride and happiness.
 
 ## Comparison
 

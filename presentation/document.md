@@ -9,6 +9,8 @@
 
 - She is quite \alert{clumsy}
 
+- \alert{Not} on purpose
+
 ## Odyssey
 
 - King Odysseus is at home in Ithaca
