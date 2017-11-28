@@ -93,8 +93,7 @@
 
 - Mulan meets with the captain
 
-- Is \alert{inspired} by his ridiculing of the soldiers to \alert{improve} her
-  battle skills
+- Is \alert{inspired} to \alert{improve} her battle skills
 
 ## Odyssey
 
