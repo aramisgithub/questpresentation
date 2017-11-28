@@ -5,20 +5,24 @@
 
 Honor is vital in Mulan. As Mulan dishonours her family, she does not fit into
 the traditional female values that all must adhere to. Mulan is also clumsy and
-embarrasses herself in front of the matchmaker, which also both go against the
-values.
+embarrasses herself in front of the matchmaker, which both go against the
+values as well. It is important to remember that Mulan is not doing this on
+purpose, and actually *wants* to be liked and fit in, but she finds this too
+difficult to maintain for more than a short period of time.
 
 ## Odyssey
 
 King Odysseus is at home in Ithaca, with his wife, Penelope, and newborn son,
-Telemachus. The King is well-liked and respected, which give him pride and
-happiness.
+Telemachus. He is well-liked, popular and respected by his people, which gives
+him pride and happiness.
 
 ## Comparison
 
 While Odysseus is full of pride and honor, and is respected by his people,
-Mulan is clumsy and is not respected by her her family. These are polar
-opposites already.
+Mulan is clumsy and is not respected by her her family or anyone else in her
+home village. Polar opposites between these two tales can be seen already! It
+is not very surprising, since the Odyssey was chosen by us for this very
+reason.
 
 # Call to adventure
 
@@ -29,14 +33,15 @@ will die in war. She decides to disguise herself as a male to save her father.
 
 ## Odyssey
 
-Odysseus sets out for the war in Troy.
+Odysseus sets out for the war in Troy to save his kingdom and protect his
+family and people.
 
 ## Comparison
 
-Odysseus' motivation is to save his people, while Mulan's motivation for
-adventure is saving her father. This could be interpreted as Mulan only being
-confident in her ability to save one person, while Odysseus is quite sure he
-can save all his people.
+Odysseus' motivation to set off on a grand adventure is to save his people,
+while Mulan's motivation is saving her father. This could be interpreted as
+Mulan only being confident in her ability to save one person, while Odysseus is
+quite sure he can save the thousands under his care.
 
 # Refusal of the call
 
@@ -44,27 +49,33 @@ can save all his people.
 
 Mulan doubts her disguising abilities and almost gives up in front of the
 training camp, but Mushu convinces her to go, despite her fears that she will
-be uncovered.
+be uncovered and possibly even executed for being a female in the military.
 
 ## Odyssey
 
 Odysseus does not want to leave his family and sail to Troy because he knows it
-will be a long trip. He worried that something bad might occur during his trip.
+will be a long trip. He is worried that something bad might occur during long
+absence wile he is on his trip.
 
 ## Comparison
 
-While Mulan fears for herself, the confident Odysseus fears for others. Some
-say that the way to tell if a person believes in themselves is to look if they
-genuinely fear for themselves. This clearly demonstrates that Odysseus believes
-in himself, while Mulan does not.
+While Mulan fears for herself, the confident Odysseus fears for others, while
+not giving a second thought to the personal risks he is taking. Some say that
+the only way to truly tell if a person believes in themselves is to look if
+they genuinely fear for themselves. If they do not, then they are both caring
+(as they are fearful for others) and fearless (as they are not fearful for
+themselves). This clearly demonstrates that Odysseus believes in himself, while
+Mulan does not.
 
 # Meeting with the mentor
 
 ## Mulan
 
 The captain fills the role of the Mentor in Mulan, who is inspired by his
-ridiculing of the soldiers to improve her battle skills and not fall behind the
-others. She is determined to excel in the new life that she has found.
+ridiculing of the soldiers' minuscule strength and ability to improve her own
+battle skills and not fall behind the others. She is determined to excel in the
+new life that she has found. Mulan's confidence grows, but is still performing
+significantly worse than the other soldiers.
 
 ## Odyssey
 
@@ -78,30 +89,40 @@ Athena constantly saves him from death while giving him guidance.
 Mulan does not have a person that constantly guards her, while Odysseus does.
 This may be an indication that Odysseus' struggles will be so much more
 difficult that he needs others to guard him, unlike Mulan whose childish little
-"adventures" do not really amount to much. Of course, this may not be the case,
-and Odysseus is just a little wuss and needs *divine aid*.
+*adventures* do not really amount to much. Of course, this may not be the case,
+and Odysseus is just a little wuss and needs Athena's *divine aid* to save him
+every time he falls into a tricky situation; you decide.
 
 # Crossing the threshold
 
 ## Mulan
 
-This really should come *before* the Meeting with the mentor, but the threshold
-was crossed when Mulan finally walked into the training camp, all tough and
-male.
+This really should come *before* the Meeting with the mentor, but I will say it
+now anyway for continuity's sake. The threshold was crossed when Mulan finally
+walked into the training camp, all tough and male, ready to *tussle* with the
+others. She also spits on the ground in the least manly way possible, to the
+suspicion of her soon-to-be friends.
 
 ## Odyssey
 
 After the war, the gods become angry with the Greeks for their prideful ways.
 Indeed, the gods are *so* angry that they form a great storm which emerges and
-throws the Greeks off course. The gods sure do hate those Greeks!
+throws the Greeks off course. The gods sure do hate those Greeks! This can be
+considered a threshold because it represents the first major struggle of
+Odysseus' trek, and is also a *point of no return*, as the ship has now sailed
+too far away to consider turning back now.
 
 ## Comparison
 
-Odysseus and his crew do not really have a real threshold to cross, while Mulan
-does. The fact that the Odyssey does *not* have a threshold might signal that
-the threshold is so drawn out that it isn't noticed. The threshold being drawn
-out may also suggest that the rest of the journey will be more laborious and
-arduous.
+The main difference between the crossing of the threshold in Mulan and the
+Odyssey is the timing and the definition of the threshold. In Mulan, the
+threshold is when she commences her adventure properly and could not turn back,
+even if she wanted to. This is contrary to the definition in the Odyssey, which
+only specifies that the threshold must be the point of no return, which in this
+case is strengthened by the first major struggle of Odysseus' journey. It is
+really quite interesting how the definition of threshold is different in almost
+every story, but this definition does not really imply anything about the rest
+of the story's content; only the structure.
 
 # Tests, allies, enemies
 
@@ -110,7 +131,6 @@ arduous.
 Mulan improves her skills and becomes even better at being male in a montage
 with a catchy song that Harrison seems to really enjoy (*Let's get down to
 buissness---To defeat---The Huns!*)
-
 
 ## Odyssey
 

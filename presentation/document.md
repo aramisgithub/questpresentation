@@ -9,8 +9,6 @@
 
 - She is quite \alert{clumsy}
 
-<!--- \alert{Embarrasses} herself in front of the matchmaker--!>
-
 ## Odyssey
 
 - King Odysseus is at home in Ithaca
@@ -142,14 +140,16 @@
 
 - Odyssey
 
-    - \alert{Does not} have a real \alert{threshold} to cross
+    - Definition of threshold consists of point of \alert{no return}
 
 - Mulan
 
-    - Mulan \alert{does}
+    - Definition of threshold consists of \alert{when} the adventure
+      \alert{commences}
 
-- Implying that Odysseus' journey will be \alert{longer} and more \alert{drawn
-  out}
+- Interesting how definition is \alert{different} for every story
+
+- Does not really \alert{imply} anything about the story's content
 
 # tests, allies, enemies
 
@@ -236,8 +236,6 @@
 
 - They are hiding behind summit of mountain
 
-<!--- All hope is lost--!>
-
 - Mulan \alert{saves} everyone by firing a \alert{rocket} into overhang of snow
 
 - Causes an avalanche
@@ -261,11 +259,11 @@
 
 - Mulan
 
-    - Sustains \alert{little} damage
+    - Sustains \alert{little} personal damage
 
 - Odyssey
 
-    - Sustains comparatively \alert{huge} personal damage
+    - Sustains comparatively \alert{huge} damage
 
 - In general much more \alert{extreme} storyline in the Odyssey
 
@@ -410,15 +408,9 @@
 
 ## Mulan
 
-<!--- Instead, the Emperor hands Mulan a \alert{sword} and
-a \alert{necklace}--!>
-
 - Mulan \alert{returns} home with the captain in tow
 
 - Her family is \alert{delighted}
-
-<!--- Mulan's family is also \alert{impressed} with the gifts Mulan
-received--!>
 
 ## Odyssey
 
@@ -453,12 +445,7 @@ received--!>
 
 - Odyssey has \alert{Poseidon}
 
-<!--    - conforms to archetype creates \alert{trouble} to Odysseus--!>
-
 - The Shadow in Mulan is \alert{Shang Yu}
-
-<!--    - Shang Yu conforms to his archetype as he is the \alert{leader of the
-Huns}--!>
 
 ## Similarities
 
@@ -477,13 +464,7 @@ Huns}--!>
 
 - The hero in Odyssey is \alert{Odysseus}
 
-<!--    - He conforms to his archetype as he is the leader and king and he is
-the \alert{main saver} of the story--!>
-
 - The heroine in Mulan is \alert{Mulan}
-
-<!--    - Mulan conforms to her archetype by \alert{saving the whole of
-China}--!>
 
 ## Similarities
 
@@ -519,20 +500,11 @@ China}--!>
 
     - Pride
 
-<!--- In comparison, Mulan is very \alert{selfless} and puts \alert{others
-before her}--!>
-
 ## The Hermit/ Helper/ Mentor
 
 - The helper in Odyssey is \alert{Goddess Athena}
 
-<!--    - She conforms to her archetype by \alert{helping} through the
-journey--!>
-
 - The helper in Mulan is \alert{Mushu}
-
-<!--    - Mushu conforms to his archetype as he \alert{guides} her and
-\alert{convinces} her to not give up--!>
 
 ## Similarities
 
@@ -549,13 +521,7 @@ journey--!>
 
 - The dream person in Odyssey is \alert{Penelope}
 
-<!--    - She conforms to the archetype as she is \alert{married to
-Odysseus}--!>
-
 - The dream person in Mulan is the \alert{Captain}
-
-<!--    - He conforms to the archetype as Mulan and the Captain \alert{like
-each other}--!>
 
 ## Similarities
 
@@ -571,9 +537,6 @@ each other}--!>
 
 - The threshold guardians in Mulan are the \alert{ancestors}
 
-<!--    - They conform to the archetype as they are \alert{not real} people and
-\alert{guide} Mushu to help Mulan--!>
-
 ## Similarities
 
 - In Mulan, the threshold guardians want to \alert{bring} her \alert{back} to
@@ -587,12 +550,7 @@ each other}--!>
 
 - The tricker in Odyssey is \alert{Poseidon}
 
-<!--    - Poseidon conforms to the archetype by \alert{tricking} Odysseus
-through the adventure--!>
-
 - The tricker in Mulan is \alert{Mushu}
-
-<!--    - Mushu conforms to the archetype by \alert{lying} to the consul--!>
 
 ## Similarities
 
@@ -608,13 +566,7 @@ through the adventure--!>
 - The herald in the Odyssey is the \alert{starting} \alert{of} the \alert{war}
   in Troy
 
-<!--    - This conforms to the archetype because it tells Odysseus to \alert{go
-to war}--!>
-
 - The herald in Mulan is \alert{Mushu} and the \alert{Consul} of the Emperor
-
-<!--    - He conforms to the archetype by \alert{telling the "news"} to the
-Captain--!>
 
 ## Similarities
 
