@@ -54,8 +54,8 @@ be uncovered and possibly even executed for being a female in the military.
 ## Odyssey
 
 Odysseus does not want to leave his family and sail to Troy because he knows it
-will be a long trip. He is worried that something bad might occur during long
-absence wile he is on his trip.
+will be a long trip. He is worried that something bad might occur during his
+long absence wile he is on his trip.
 
 ## Comparison
 
