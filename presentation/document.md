@@ -1,7 +1,9 @@
 
-# ordinary world
+ordinary world
+==============
 
-## Mulan
+Mulan
+-----
 
 - \alert{Honor} is vital
 
@@ -11,7 +13,8 @@
 
 - \alert{Not} on purpose
 
-## Odyssey
+Odyssey
+-------
 
 - King Odysseus is at home in Ithaca
 
@@ -19,7 +22,8 @@
 
 - Generally \alert{well-liked} and \alert{respected}
 
-## Comparison
+Comparison
+----------
 
 - Odyssey
 
@@ -33,9 +37,11 @@
 
     - \alert{Not} respected by her family
 
-# call to adventure
+call to adventure
+=================
 
-## Mulan
+Mulan
+-----
 
 - Witnesses her father being \alert{conscripted}
 
@@ -43,11 +49,13 @@
 
 - Decides to \alert{disguise} herself
 
-## Odyssey
+Odyssey
+-------
 
 - Odysseus sets out for the \alert{war} in Troy.
 
-## Comparison
+Comparison
+----------
 
 - Odyssey
 
@@ -57,9 +65,11 @@
 
     - Motivation for adventure is saving her \alert{father}
 
-# refusal of the call
+refusal of the call
+===================
 
-## Mulan
+Mulan
+-----
 
 - \alert{Doubts} her disguising abilities
 
@@ -67,7 +77,8 @@
 
 - Mushu convinces her to \alert{go anyway}
 
-## Odyssey
+Odyssey
+-------
 
 - He does not want to \alert{leave} his \alert{family} and sail to Troy
 
@@ -75,7 +86,8 @@
 
 - Is worried that something \alert{bad} could \alert{occur} during his absence
 
-## Comparison
+Comparison
+----------
 
 - Mulan
 
@@ -87,15 +99,18 @@
 
 - Shows that Odysseus \alert{believes} in himself, while Mulan \alert{does not}
 
-# meeting with the mentor
+meeting with the mentor
+=======================
 
-## Mulan
+Mulan
+-----
 
 - Mulan meets with the captain
 
 - Is \alert{inspired} to \alert{improve} her battle skills
 
-## Odyssey
+Odyssey
+-------
 
 - \alert{Athena}, the goddess of wisdom, crafts, and battle is Odysseus'
   \alert{guide}
@@ -110,7 +125,8 @@
 
 - Gives him \alert{guidance}
 
-## Comparison
+Comparison
+----------
 
 - Mulan
 
@@ -123,21 +139,25 @@
 - May indicate that Odysseus' struggles will be so much \alert{more difficult}
   that he needs others to guard him
 
-# crossing the threshold
+crossing the threshold
+======================
 
-## Mulan
+Mulan
+-----
 
 - Mulan comes to be \alert{respected} by the others in the army for her
   \alert{skill}
 
-## Odyssey
+Odyssey
+-------
 
 - After the war, the \alert{gods} become \alert{angry} with the Greeks for
   their prideful ways
 
 - A great \alert{storm} emerges and throws them \alert{off course}
 
-## Comparison
+Comparison
+----------
 
 - Odyssey
 
@@ -152,15 +172,18 @@
 
 - Does not really \alert{imply} anything about the story's content
 
-# tests, allies, enemies
+tests, allies, enemies
+======================
 
-## Mulan
+Mulan
+-----
 
 - Mulan improves her \alert{skills} and becomes even \alert{better} at being
   male
 
 
-## Odyssey
+Odyssey
+-------
 
 - Odysseus is faced with \alert{many tests} as he travels back to Ithaca:
 
@@ -178,7 +201,8 @@
 
     - Cattle of the Sun God
 
-## Comparison
+Comparison
+----------
 
 - Mulan
 
@@ -192,15 +216,18 @@
     - Journey has \alert{real} life-or-death scenarios, and is more
       \alert{serious} than Mulan
 
-# approach to the innermost cave
+approach to the innermost cave
+==============================
 
-## Mulan
+Mulan
+-----
 
 - Army goes to a \alert{village} the Huns decimated
 
 - Mushu \alert{tricked} them into going to war with the Huns
 
-## Odyssey
+Odyssey
+-------
 
 - Odysseus \alert{nearly} makes it home
 
@@ -210,7 +237,8 @@
 - When the bag is opened, it releases a \alert{wind} that blows them far
   \alert{away} from Ithaca
 
-## Comparison
+Comparison
+----------
 
 - Mulan
 
@@ -229,9 +257,11 @@
 
     - Sets the tone for Supreme Ordeal
 
-# supreme ordeal
+supreme ordeal
+==============
 
-## Mulan
+Mulan
+-----
 
 - Army is \alert{ambushed} by the Huns
 
@@ -248,7 +278,8 @@
 - The rest of the army \alert{realises} that Mulan is \alert{female} after
   undressing her to tend to a wound she had sustained
 
-## Odyssey
+Odyssey
+-------
 
 - Odysseus is sent to the \alert{underworld}
 
@@ -256,7 +287,8 @@
 
 - This quest brings him to the \alert{verge} of \alert{death}
 
-## Comparison
+Comparison
+----------
 
 - Mulan
 
@@ -268,9 +300,11 @@
 
 - In general much more \alert{extreme} storyline in the Odyssey
 
-# reward
+reward
+======
 
-## Mulan
+Mulan
+-----
 
 - \alert{Reward} does not go to the hero
 
@@ -282,11 +316,13 @@
 - Mulan is \alert{left to die} in the snow with Mushu, the cricket and her
   horse
 
-## Odyssey
+Odyssey
+-------
 
 - The \alert{King} of Phaeacia gives Odysseus \alert{passage} home
 
-## Comparison
+Comparison
+----------
 
 - Mulan
 
@@ -303,9 +339,11 @@
 
     - More \alert{epic} in general
 
-# the road back
+the road back
+=============
 
-## Mulan
+Mulan
+-----
 
 - Mulan realises most of the Huns did \alert{not die} in the avalanche after
   all
@@ -317,7 +355,8 @@
 - Does not manage to \alert{convince} the others in the army that the Huns are
   in fact \alert{not dead} and are trying to \alert{murder} the Emperor
 
-## Odyssey
+Odyssey
+-------
 
 - Unlike other heroes, Odysseus was \alert{not} in search of \alert{treasure}
 
@@ -326,7 +365,8 @@
 - Once he returns, he finds out that his \alert{house} has been \alert{overrun}
   with suitors trying to steal his wife and palace
 
-## Comparison
+Comparison
+----------
 
 - Mulan
 
@@ -343,9 +383,11 @@
 
     - \alert{Lower} stakes
 
-# resurrection
+resurrection
+============
 
-## Mulan
+Mulan
+-----
 
 - No one believes her
 
@@ -369,7 +411,8 @@
 
 - Is \alert{rewarded} by Emperor
 
-## Odyssey
+Odyssey
+-------
 
 - Instead of rushing in and killing the suitors, Odysseus is \alert{patient}
 
@@ -387,7 +430,8 @@
 - Penelope will marry the man who strings Odysseus' bow and shoots an arrow
   through a line of small circles
 
-## Comparison
+Comparison
+----------
 
 - Mulan
 
@@ -405,15 +449,18 @@
 
 - Mulan's plan is just \alert{brute force} with a bit of disguising
 
-# return with the elixir
+return with the elixir
+======================
 
-## Mulan
+Mulan
+-----
 
 - Mulan \alert{returns} home with the captain in tow
 
 - Her family is \alert{delighted}
 
-## Odyssey
+Odyssey
+-------
 
 - Odysseus completes the task
 
@@ -429,7 +476,8 @@
 
 - All is \alert{returned to normal}
 
-## Comparison
+Comparison
+----------
 
 - Both \alert{noble} and \alert{dramatic}
 
@@ -440,15 +488,18 @@
 - Assuming all mystical creatures are real, Odyssey scenario quite
   \alert{realistic}
 
-# archetypes
+archetypes
+==========
 
-## The Shadow
+The Shadow
+----------
 
 - Odyssey has \alert{Poseidon}
 
 - The Shadow in Mulan is \alert{Shang Yu}
 
-## Similarities
+Similarities
+------------
 
 - Both the characters are \alert{villains}
 
@@ -461,13 +512,15 @@
 - Poseidon is more \alert{cunning} and \alert{mischievous} in comparison to
   a big, more \alert{traditional} villain like Shang Yu
 
-## The Hero(ine)
+The Hero(ine)
+-------------
 
 - The hero in Odyssey is \alert{Odysseus}
 
 - The heroine in Mulan is \alert{Mulan}
 
-## Similarities
+Similarities
+------------
 
 - Mulan is introduced as
 
@@ -501,13 +554,15 @@
 
     - Pride
 
-## The Hermit/ Helper/ Mentor
+The Hermit/ Helper/ Mentor
+--------------------------
 
 - The helper in Odyssey is \alert{Goddess Athena}
 
 - The helper in Mulan is \alert{Mushu}
 
-## Similarities
+Similarities
+------------
 
 - \alert{Help} the \alert{protagonist}.
 
@@ -518,18 +573,21 @@
 - In comparison, Athena in the Odyssey, sends him \alert{divine aid} and
   \alert{help}
 
-## The Dream Person
+The Dream Person
+----------------
 
 - The dream person in Odyssey is \alert{Penelope}
 
 - The dream person in Mulan is the \alert{Captain}
 
-## Similarities
+Similarities
+------------
 
 - In comparison, Odysseus \alert{is married} to Penelope whereas Mulan and the
   Captain \alert{aren't}
 
-## The Threshold Guardian(s)
+The Threshold Guardian(s)
+-------------------------
 
 - The threshold guardians in Odyssey are the \alert{Lotus Eaters}
 
@@ -538,7 +596,8 @@
 
 - The threshold guardians in Mulan are the \alert{ancestors}
 
-## Similarities
+Similarities
+------------
 
 - In Mulan, the threshold guardians want to \alert{bring} her \alert{back} to
   \alert{not fight} for the war
@@ -547,13 +606,15 @@
 
 - \alert{Help} the Odyssey crew with the 'lotus' fruits
 
-## The Tricker
+The Trickster
+-------------
 
-- The tricker in Odyssey is \alert{Poseidon}
+- The trickster in Odyssey is \alert{Poseidon}
 
-- The tricker in Mulan is \alert{Mushu}
+- The trickster in Mulan is \alert{Mushu}
 
-## Similarities
+Similarities
+------------
 
 - In Mulan, Mushu \alert{tricks} the consul to \alert{go to war}
 
@@ -562,14 +623,16 @@
 - In comparison, Poseidon \alert{tricks} Odysseus many times by getting him
   into frustrating situations
 
-## The Herald
+The Herald
+----------
 
 - The herald in the Odyssey is the \alert{starting} \alert{of} the \alert{war}
   in Troy
 
 - The herald in Mulan is \alert{Mushu} and the \alert{Consul} of the Emperor
 
-## Similarities
+Similarities
+------------
 
 - In Mulan, Mushu \alert{lied} about going to war; the news was \alert{fake}
 
