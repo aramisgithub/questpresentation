@@ -1,3 +1,8 @@
+---
+title: Survival Through a Close Study of Text
+author: Aramis Razzaghipour
+---
+
 # Hello world!
 
 I'm a test Markdown document.

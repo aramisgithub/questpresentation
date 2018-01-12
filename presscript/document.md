@@ -1,3 +1,7 @@
+---
+title: A Hero's Quest Script
+author: James Choi, Aramis Razzaghipour
+---
 
 Ordinary world
 ==============

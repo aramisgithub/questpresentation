@@ -1,3 +1,7 @@
+---
+title: A Hero's Quest
+author: James Choi, Aramis Razzaghipour
+---
 
 ordinary world
 ==============
@@ -638,3 +642,4 @@ Similarities
 
 - In Odyssey, the starting of the war \alert{warned} everyone to stay
   \alert{alert}
+
